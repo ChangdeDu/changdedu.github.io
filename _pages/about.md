@@ -14,7 +14,7 @@ I am currently a Assistant Professor at the [Institute of Automation, Chinese Ac
 
 I obtained my PhD degree in the [Research Center for Brain-inspired Intelligence, CASIA](https://bii.ia.ac.cn/), supervised by Professor [Huiguang He](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/200908/t20090804_2310528.html). Prior to CASIA, I was a Principal Engineer at the Cloud & AI, Huawei Technologies Co. Ltd., Beijing, China. 
 
-My research interest broadly includes artificial intelligence, neural information processing, visual neural coding, brain-machine interaction and learning, pattern recognation and data mining.
+My research interest broadly includes artificial intelligence, neural information (fMRI, EEG, etc.) processing, visual neural coding, brain-machine interaction and learning, pattern recognation and data mining.
   
 # News
 - 05/2021: I was selected as one of the 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence
@@ -58,7 +58,7 @@ IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 2020 <br>[[
 **Engineering** 5 (5), 948-953, 2019 <br>[[PDF]](https://www.sciencedirect.com/science/article/pii/S2095809917305647)
 
 - **Changde Du**, Changying Du, Huiguang He. Doubly Semi-Supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval. 
-2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**), 13-18, 2019 (**Best Paper Runner-Up Award**)  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922)
+2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**), 13-18, 2019 ([**Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html))  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922)
 
 - Jinpeng Li, Shuang Qiu, **Changde Du**, Yixin Wang, Huiguang He. Domain Adaptation for EEG Emotion Recognition Based on Latent Representation Similarity.
 IEEE Transactions on Cognitive and Developmental Systems (**TCDS**) 12 (2), 344-353, 2019 <br>[[PDF]](https://ieeexplore.ieee.org/document/8882370)
@@ -66,6 +66,11 @@ IEEE Transactions on Cognitive and Developmental Systems (**TCDS**) 12 (2), 344-
 - Haibao Wang, Lijie Huang, **Changde Du**, Huiguang He. Learning" What" and" Where": An Interpretable Neural Encoding Model.
 International Joint Conference on Neural Networks (**IJCNN 2019**), 1-8, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/document/8852117)
 
+## 2018
+- **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multiview Learning.
+IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 2310-2323, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8574054) [[Code]](https://github.com/ChangdeDu/DGMM)
+
+- **Changde Du**, Changying Du, Hao Wang, Jinpeng Li, Wei-Long Zheng, Bao-Liang Lu, Huiguang He. Semi-supervised Deep Generative Modelling of Incomplete Multi-modality Emotional Data. Proceedings of the 26th ACM international conference on Multimedia (**ACMMM 2018**), 108-116, 2018 <br>[[PDF]](https://arxiv.org/pdf/1808.02096.pdf) [[Code]](https://github.com/ChangdeDu/semiMVAE)
 
 # Academic Service
 - Journal Reviewer: TPAMI, TNNLS, TAC, PR, TCDS, etc.
