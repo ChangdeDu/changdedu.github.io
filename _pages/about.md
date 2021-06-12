@@ -58,7 +58,7 @@ IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 2020 <br>[[
 **Engineering** 5 (5), 948-953, 2019 <br>[[PDF]](https://www.sciencedirect.com/science/article/pii/S2095809917305647)
 
 - **Changde Du**, Changying Du, Huiguang He. Doubly Semi-Supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval. 
-2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**), 13-18, 2019 ([**Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html))  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922)
+2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**, [**Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)), 13-18, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922)
 
 - Jinpeng Li, Shuang Qiu, **Changde Du**, Yixin Wang, Huiguang He. Domain Adaptation for EEG Emotion Recognition Based on Latent Representation Similarity.
 IEEE Transactions on Cognitive and Developmental Systems (**TCDS**) 12 (2), 344-353, 2019 <br>[[PDF]](https://ieeexplore.ieee.org/document/8882370)
@@ -72,8 +72,46 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 23
 
 - **Changde Du**, Changying Du, Hao Wang, Jinpeng Li, Wei-Long Zheng, Bao-Liang Lu, Huiguang He. Semi-supervised Deep Generative Modelling of Incomplete Multi-modality Emotional Data. Proceedings of the 26th ACM international conference on Multimedia (**ACMMM 2018**), 108-116, 2018 <br>[[PDF]](https://arxiv.org/pdf/1808.02096.pdf) [[Code]](https://github.com/ChangdeDu/semiMVAE)
 
+- Changying Du, **Changde Du**, Xingyu Xie, Chen Zhang and Hao Wang. Multiview Adversarially Learned Inference for Cross-domain Joint Distribution Matching. In Proceedings of the 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2018, Long oral**) , London, United Kingdom, August 19-23, 2018 <br>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219957) 
+
+- Zhiqiang Chen, **Changde Du**, Lijie Huang, Dan Li, Huiguang He. Improving Image Classification Performance with Automatically Hierarchical Label Clustering.
+24th International Conference on Pattern Recognition (**ICPR 2018**), 1863-1868, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8546042) 
+
+- Dan Li, **Changde Du**, Lijie Huang, Zhiqiang Chen, Huiguang He. Multi-label Semantic Decoding from Human Brain Activity.
+24th International Conference on Pattern Recognition (**ICPR 2018**), 3796-3801, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8545855)
+
+- Changying Du, Xingyu Xie, **Changde Du** and Hao Wang. Redundancy-resistant Generative Hashing for Image Retrieval. In Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (**IJCAI 2018**) , Stockholm, Sweden, July 13-19, 2018  <br>[[PDF]](https://www.ijcai.org/proceedings/2018/0696.pdf) 
+
+- Xuelin Ma, Shuang Qiu, **Changde Du**, Jiezhen Xing, Huiguang He. Improving EEG-Based Motor Imagery Classification via Spatial and Temporal Recurrent Neural Networks.
+40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (**EMBC 2018**), 1903-1906, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8512590)
+
+## 2017 
+- **Changde Du**, Changying Du, Huiguang He. Sharing Deep Generative Representation for Perceived Image Reconstruction from Human Brain Activity.
+International Joint Conference on Neural Networks (**IJCNN 2017**), 1049-1056, 2017  <br>[[PDF]](https://arxiv.org/abs/1704.07575)  [[Code]](https://github.com/ChangdeDu/DGMM)  [[OHBM Talks, Top 3%]](https://www.pathlms.com/ohbm/courses/5158/sections/7807/video_presentations/76069) [[MIT Technology Review]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)  [[CAS News]](http://english.cas.cn/newsroom/archive/research_archive/rp2017/201705/t20170511_176994.shtml)  
+
+- **Changde Du**, Changying Du, Jinpeng Li, Wei-long Zheng, Bao-liang Lu, Huiguang He. Semi-supervised Bayesian Deep multi-modal emotion recognition.
+arXiv preprint arXiv:1704.07548, 2017 <br>[[PDF]](https://arxiv.org/abs/1704.07548)  [[Code]](https://github.com/ChangdeDu/semiMVAE)
+
+- Jia He, Changying Du, **Changde Du**, Fuzhen Zhuang, Qing He, Guoping Long. Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel.
+In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**), 1830-1836, 2017  <br>[[PDF]](https://www.ijcai.org/proceedings/2017/0254.pdf)
+
+## 2016
+- **Changde Du**, Changying Du, Shandian Zhe, Ali Luo, Qing He, Guoping Long. Bayesian Group Feature Selection for Support Vector Learning Machines.
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2016, Long Oral**), 239-252, 2016 <br>[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_20)
+
+- **Changde Du**, Ali Luo, Haifeng Yang, Wen Hou, Yanxin Guo. An Efficient Method for Rare Spectra Retrieval in Astronomical Databases.
+Publications of the Astronomical Society of the Pacific (**PASP**) 128 (961), 034502, 2016  <br>[[PDF]](https://arxiv.org/abs/1603.04544)
+
+- **Changde Du**, Ali Luo, Haifeng Yang. Adaptive Stellar Spectral Subclass Classification Based on Bayesian SVMs. New Astronomy 51, 51-58, 2016  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1384107616300793)
+
+- Changying Du, **Changde Du**, Guoping Long, Qing He, Yucheng Li. Online Bayesian Multiple Kernel Bipartite Ranking.
+Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[[PDF]](http://auai.org/uai2016/proceedings/papers/13.pdf)
+
+- Changying Du, **Changde Du**, Guoping Long, Xin Jin, Yucheng Li. Efficient Bayesian Maximum Margin Multiple Kernel Learning.
+Joint European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2016**), 165-181, 2016  <br>[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46128-1_11)
+
 # Academic Service
-- Journal Reviewer: TPAMI, TNNLS, TAC, PR, TCDS, etc.
+- Journal Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE TAC, PR, IEEE TCDS, etc.
 
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence
@@ -83,6 +121,7 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 23
 -	2019 University of CAS Outstanding Graduate Student Awards
 -	2018 PhD student National Scholarship
 -	2017 Top 40 for the Baidu Scholarship
+-	2017 MIT Technology Review reported our neural decoding work
 - 2017 Third Prize of International Collegiate Competition for Brain-inspired Computing 
 -	2017 CAS Institute of Automation “Pandeng” Scholarship
 -	2017 University of CAS Merit Student
