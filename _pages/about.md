@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) , Beijing, China.
 
-I obtained my PhD degree in the [Research Center for Brain-inspired Intelligence, CASIA](https://bii.ia.ac.cn/), supervised by Professor [Huiguang He](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/200908/t20090804_2310528.html). Prior to CASIA, I was a Principal Engineer at the Cloud & AI, Huawei Technologies Co. Ltd., Beijing, China. 
+I obtained my PhD degree from the [Research Center for Brain-inspired Intelligence, CASIA](https://bii.ia.ac.cn/), in June 2019, supervised by Professor [Huiguang He](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/200908/t20090804_2310528.html). Prior to CASIA, I was a Principal Engineer (from July 2019 to June 2021) at the [Cloud&AI, Huawei Technologies Co. Ltd.](https://www.huaweicloud.com/intl/zh-cn/about/index.html), Beijing, China. 
 
 My research interest broadly includes artificial intelligence, neural information (fMRI, EEG, etc.) processing, visual neural coding, brain-machine interaction and learning, pattern recognation and data mining.
   
