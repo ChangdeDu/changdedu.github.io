@@ -17,15 +17,25 @@ I obtained my PhD degree in the [Research Center for Brain-inspired Intelligence
 My research interest broadly includes artificial intelligence, neural information (fMRI, EEG, etc.) processing, visual neural coding, brain-machine interaction and learning, pattern recognation and data mining.
   
 # News
-- 05/2021: I was selected as one of the 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence
+- 05/2021: I was selected as one of the [**2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence**](https://xueshu.baidu.com/usercenter/index/aischolar)
 
-- 11/2020: Our paper on "Doubly Semi-supervised Multimodal Learning" got accepted to Information Fusion
+- 12/2020: Our paper won [**Youth Outstanding Paper Award Honorable Mention**](https://mp.weixin.qq.com/s/vgwEHo53KpVdcjNPWKkHjg) on WRCF--BCI Brain-Controlled Robot Competition
 
-- 09/2020: Our paper on "Structured Neural Decoding" got accepted to IEEE TNNLS
+- 11/2020: Our paper on "Doubly Semi-supervised Multimodal Learning" got accepted to [**Information Fusion**](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
 
-- 11/2019: Our paper on "Conditional Generative Neural Decoding" got accepted to AAAI'20
+- 09/2020: Our paper on "Multitask Structured Neural Decoding" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9229132)
 
-- 07/2019: Our paper won ICME'19 Best Paper Runner-Up Award
+- 09/2020: Our paper on "Multi-subject Adversarial Semantic Decoding" got accepted to [**Information Sciences**](https://www.sciencedirect.com/science/article/abs/pii/S0020025520309221)
+
+- 06/2020: Our paper on "“What" and “Where" Interpretable Neural Encoding Model" got accepted to [**IEEE TCDS**](https://ieeexplore.ieee.org/document/9134376)
+
+- 03/2020: Our paper on "Dynamical DNN Channel Pruning" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9055425?reason=concurrency)
+
+- 11/2019: Our paper on "Conditional Generative Neural Decoding" got accepted to [**AAAI'20**](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
+
+- 10/2019: Our paper on "Semi-supervised Cross-modal Image Generation" got accepted to  [**Pattern Recognition**](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303863)
+
+- 07/2019: Our paper won [**ICME'19 Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 
 
 # Recent publications
@@ -117,6 +127,7 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence
+- 2020 World Robot Competition Finals--BCI Brain-Controlled Robot Competition Youth Outstanding Paper Award Honorable Mention
 -	2019 ICME Best Paper Runner-Up Award
 -	2019 CAS Presidential Scholarship
 -	2019 Beijing Outstanding Graduate Student Awards
