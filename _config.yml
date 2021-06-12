@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Changde Du (杜长德)"
+title                    : "Changde Du"
 title_separator          : "-"
 name                     : &name "Changde Du (杜长德)"
 description              : &description "Assistant Researcher at CASIA"
