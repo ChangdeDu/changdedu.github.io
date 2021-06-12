@@ -15,6 +15,8 @@ I am currently a Assistant Professor at the [Institute of Automation, Chinese Ac
 I obtained my PhD degree from the [Research Center for Brain-inspired Intelligence, National Laboratory of Pattern Recognition, CASIA](https://bii.ia.ac.cn/), in June 2019, supervised by Professor [Huiguang He](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/200908/t20090804_2310528.html). Prior to CASIA, I was a Principal Engineer (from July 2019 to June 2021) at the [Cloud&AI, Huawei Technologies Co. Ltd.](https://www.huaweicloud.com/intl/zh-cn/about/index.html), Beijing, China. 
 
 My research interest broadly includes artificial intelligence, neural information (fMRI, EEG, etc.) processing, visual neural coding, brain-machine interaction and learning, pattern recognation and data mining.
+
+I have published more than 20 papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, TNNLS, Inf. Fusion., Inf. Sci. and PR. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
 - 05/2021: I was selected as one of the [**2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence**](https://xueshu.baidu.com/usercenter/index/aischolar)
