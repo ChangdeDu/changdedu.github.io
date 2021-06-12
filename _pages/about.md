@@ -19,7 +19,7 @@ My research interest broadly includes artificial intelligence, neural informatio
 I have published more than 20 papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, UAI, TNNLS, Inf. Fusion, Inf. Sci. and PR. I won the Best Paper Runner-Up Award in ICME 2019.
   
 # News
-- 05/2021: Selected as [**Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强榜)**](https://xueshu.baidu.com/usercenter/index/aischolar) [[百度学术]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361) [[光明网]](https://tech.gmw.cn/2021-05/12/content_34838485.htm)
+- 05/2021: Selected as [**Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强)**](https://xueshu.baidu.com/usercenter/index/aischolar) [[百度学术]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361) [[光明网]](https://tech.gmw.cn/2021-05/12/content_34838485.htm)
 
 - 12/2020: Won [**Youth Outstanding Paper Award**] on WRCF--BCI Brain-Controlled Robot Competition [(世界机器人大赛--BCI脑控机器人大赛青年优秀论文奖)](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
 
@@ -130,7 +130,7 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 - Journal Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE TAC, PR, IEEE TCDS, etc.
 
 # Awards and Achievements
-- 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强榜) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
+- 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
 - 2020 World Robot Competition Finals--BCI Brain-Controlled Robot Competition Youth Outstanding Paper Award Honorable Mention (世界机器人大赛--BCI脑控机器人大赛青年优秀论文，共十篇) [[Link]](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
 -	2019 ICME Best Paper Runner-Up Award (最佳论文奖亚军) [[Link]](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 -	2019 CAS Presidential Scholarship (中国科学院院长奖)
