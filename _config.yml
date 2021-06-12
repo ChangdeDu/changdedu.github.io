@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "Changde Du"
 title_separator          : "-"
-name                     : &name "Changde Du"
+name                     : &name "Changde Du (杜长德)"
 description              : &description "Assistant Researcher at CASIA"
 url                      : https://changdedu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
