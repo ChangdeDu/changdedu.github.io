@@ -29,7 +29,7 @@ My research interest broadly includes artificial intelligence, neural informatio
 
 - 06/2020: Our paper on "“What" and “Where" Interpretable Neural Encoding Model" got accepted to [**IEEE TCDS**](https://ieeexplore.ieee.org/document/9134376)
 
-- 03/2020: Our paper on "Dynamical DNN Channel Pruning" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9055425?reason=concurrency)
+- 03/2020: Our paper on "Brain-inspired Dynamical DNN Channel Pruning" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9055425?reason=concurrency)
 
 - 11/2019: Our paper on "Conditional Generative Neural Decoding" got accepted to [**AAAI'20**](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
 
