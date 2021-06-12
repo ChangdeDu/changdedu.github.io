@@ -60,6 +60,8 @@ IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 2020 <br>[[
 - **Changde Du**, Changying Du, Huiguang He. Doubly Semi-Supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval. 
 2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**, [**Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)), 13-18, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922)
 
+- **Changde Du**, Research on Neural Encoding and Decoding with Multi-view Deep Learning, Ph.D. Dissertation of the Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China, June, 2019
+
 - Jinpeng Li, Shuang Qiu, **Changde Du**, Yixin Wang, Huiguang He. Domain Adaptation for EEG Emotion Recognition Based on Latent Representation Similarity.
 IEEE Transactions on Cognitive and Developmental Systems (**TCDS**) 12 (2), 344-353, 2019 <br>[[PDF]](https://ieeexplore.ieee.org/document/8882370)
 
