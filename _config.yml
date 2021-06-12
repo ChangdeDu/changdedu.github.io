@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "Changde Du"
 title_separator          : "-"
-name                     : &name "Changde Du (杜长德)"
+name                     : &name "Changde Du"
 description              : &description "Assistant Researcher at CASIA"
 url                      : https://changdedu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &shaonan
+  username               : &changde
 facebook:
   username               :
   app_id                 :
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changde Du"
+  name             : "Changde Du (杜长德)"
   avatar           : "profile.jpg"
   bio              : "Assistant Researcher at CASIA."
   location         : "Beijing, China"
