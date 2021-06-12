@@ -16,12 +16,12 @@ I obtained my PhD degree from the [Research Center for Brain-inspired Intelligen
 
 My research interest broadly includes artificial intelligence, neural information (fMRI, EEG, etc.) processing, visual neural coding, brain-machine interaction and learning, pattern recognation and data mining.
 
-I have published more than 20 papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, TNNLS, Inf. Fusion., Inf. Sci. and PR. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
+I have published more than 20 papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, UAI, TNNLS, Inf. Fusion, Inf. Sci. and PR. I won the Best Paper Runner-Up Award in ICME 2019.
   
 # News
-- 05/2021: I was selected as one of the [**2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence**](https://xueshu.baidu.com/usercenter/index/aischolar)
+- 05/2021: Selected as [**Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强榜)**](https://xueshu.baidu.com/usercenter/index/aischolar) [[百度学术]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361) [[光明网]](https://tech.gmw.cn/2021-05/12/content_34838485.htm)
 
-- 12/2020: Our paper won [**Youth Outstanding Paper Award Honorable Mention**](https://mp.weixin.qq.com/s/vgwEHo53KpVdcjNPWKkHjg) on WRCF--BCI Brain-Controlled Robot Competition
+- 12/2020: Won [**Youth Outstanding Paper Award**] on WRCF--BCI Brain-Controlled Robot Competition [(世界机器人大赛--BCI脑控机器人大赛青年优秀论文奖)](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
 
 - 11/2020: Our paper on "Doubly Semi-supervised Multimodal Learning" got accepted to [**Information Fusion**](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
 
@@ -40,7 +40,9 @@ I have published more than 20 papers in top-tier AI/ML conferences and journals,
 - 07/2019: Our paper won [**ICME'19 Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 
 
-# Recent publications
+# Recent publications 
+
+### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2021
 - **Changde Du**, Changying Du, Huiguang He. Multimodal Deep Generative Adversarial Models for Scalable Doubly Semi-supervised Learning. Information Fusion (**Inf. Fusion**) 68, 118-130, 2021 <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
@@ -128,15 +130,15 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 - Journal Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE TAC, PR, IEEE TCDS, etc.
 
 # Awards and Achievements
-- 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence
-- 2020 World Robot Competition Finals--BCI Brain-Controlled Robot Competition Youth Outstanding Paper Award Honorable Mention
--	2019 ICME Best Paper Runner-Up Award
--	2019 CAS Presidential Scholarship
--	2019 Beijing Outstanding Graduate Student Awards
--	2019 University of CAS Outstanding Graduate Student Awards
--	2018 PhD student National Scholarship
--	2017 Top 40 for the Baidu Scholarship
--	2017 MIT Technology Review reported our neural decoding work
-- 2017 Third Prize of International Collegiate Competition for Brain-inspired Computing 
+- 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强榜) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
+- 2020 World Robot Competition Finals--BCI Brain-Controlled Robot Competition Youth Outstanding Paper Award Honorable Mention (世界机器人大赛--BCI脑控机器人大赛青年优秀论文，共十篇) [[Link]](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
+-	2019 ICME Best Paper Runner-Up Award (最佳论文奖亚军) [[Link]](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
+-	2019 CAS Presidential Scholarship (中国科学院院长奖)
+-	2019 Beijing Outstanding Graduate Student Awards (北京市优秀毕业生)
+-	2019 University of CAS Outstanding Graduate Student Awards (中国科学院大学优秀毕业生)
+-	2018 PhD student National Scholarship (博士生国家奖学金)
+-	2017 MIT Technology Review reported our neural decoding work (麻省理工科技评论) [[Link]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)
+- 2017 Third Prize of International Collegiate Competition for Brain-inspired Computing (国际大学生类脑计算大赛三等奖) [[Link]](http://www.ia.cas.cn/xwzx/kydt/201710/t20171025_4877889.html)
 -	2017 CAS Institute of Automation “Pandeng” Scholarship
+-	2017 Top 40 for the Baidu Scholarship (百度奖学金40强) [[Link]](https://mp.weixin.qq.com/s/sTWcdiDmGaufXvfe5w0Wxg)
 -	2017 University of CAS Merit Student
