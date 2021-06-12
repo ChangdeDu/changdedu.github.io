@@ -19,7 +19,7 @@ My research interest broadly includes artificial intelligence, neural informatio
 # News
 - 05/2021: I was selected as one of the 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence
 
-- 11/2020: Our paper on "Doubly Semisupervised Multimodal Learning" got accepted to Information Fusion
+- 11/2020: Our paper on "Doubly Semi-supervised Multimodal Learning" got accepted to Information Fusion
 
 - 09/2020: Our paper on "Structured Neural Decoding" got accepted to IEEE TNNLS
 
@@ -40,7 +40,7 @@ My research interest broadly includes artificial intelligence, neural informatio
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2020**) 34 (03), 2629-2636, 2020  <br>[[PDF]](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
 
 - **Changde Du**, Changying Du, Lijie Huang, Haibao Wang, Huiguang He. Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations.
-IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2020  <br>[[PDF]](https://ieeexplore.ieee.org/document/9229132)
+IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2020  <br>[[PDF]](https://ieeexplore.ieee.org/document/9229132) [[Code]](https://github.com/ChangdeDu/StructuredNeuroDecoding) [[Data]](https://figshare.com/articles/dataset/FaceBold/13019966) [[CASIA News]](http://www.ia.cas.cn/xwzx/kydt/202010/t20201027_5723105.html) [[CSIG Report]](https://mp.weixin.qq.com/s/AlMFWheKDDKD1Zva_vTTgQ)
 
 - Dan Li, **Changde Du**, Huiguang He. Semi-supervised Cross-modal Image Generation with Generative Adversarial Networks. Pattern Recognition (**PR**) 100, 107085, 2020  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303863)
 
@@ -58,7 +58,7 @@ IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 2020 <br>[[
 **Engineering** 5 (5), 948-953, 2019 <br>[[PDF]](https://www.sciencedirect.com/science/article/pii/S2095809917305647)
 
 - **Changde Du**, Changying Du, Huiguang He. Doubly Semi-Supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval. 
-2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**, [**Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)), 13-18, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922)
+2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**, **Best Paper Runner-Up Award**), 13-18, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922) [[**Best Paper Runner-Up Award**]](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 
 - **Changde Du**, Research on Neural Encoding and Decoding with Multi-view Deep Learning, Ph.D. Dissertation of the Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China, June, 2019
 
@@ -89,7 +89,7 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 23
 
 ## 2017 
 - **Changde Du**, Changying Du, Huiguang He. Sharing Deep Generative Representation for Perceived Image Reconstruction from Human Brain Activity.
-International Joint Conference on Neural Networks (**IJCNN 2017**), 1049-1056, 2017  <br>[[PDF]](https://arxiv.org/abs/1704.07575)  [[Code]](https://github.com/ChangdeDu/DGMM)  [[OHBM Talks, Top 3%]](https://www.pathlms.com/ohbm/courses/5158/sections/7807/video_presentations/76069) [[MIT Technology Review]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)  [[CAS News]](http://english.cas.cn/newsroom/archive/research_archive/rp2017/201705/t20170511_176994.shtml)  
+International Joint Conference on Neural Networks (**IJCNN 2017**), 1049-1056, 2017  <br>[[PDF]](https://arxiv.org/abs/1704.07575)  [[Code]](https://github.com/ChangdeDu/DGMM)  [[OHBM Talks, Top 3%]](https://www.pathlms.com/ohbm/courses/5158/sections/7807/video_presentations/76069) [[**MIT Technology Review**]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)  [[**CAS News**]](http://english.cas.cn/newsroom/archive/research_archive/rp2017/201705/t20170511_176994.shtml)  
 
 - **Changde Du**, Changying Du, Jinpeng Li, Wei-long Zheng, Bao-liang Lu, Huiguang He. Semi-supervised Bayesian Deep multi-modal emotion recognition.
 arXiv preprint arXiv:1704.07548, 2017 <br>[[PDF]](https://arxiv.org/abs/1704.07548)  [[Code]](https://github.com/ChangdeDu/semiMVAE)
