@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) , Beijing, China.
 
-I obtained my PhD degree from the [Research Center for Brain-inspired Intelligence, National Laboratory of Pattern Recognition, CASIA](https://bii.ia.ac.cn/), in June 2019, supervised by Professor [Huiguang He](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/200908/t20090804_2310528.html). Prior to CASIA, I was a Principal Engineer (from July 2019 to June 2021) at the [Cloud&AI, Huawei Technologies Co. Ltd.](https://www.huaweicloud.com/intl/zh-cn/about/index.html), Beijing, China. 
+I obtained my PhD degree from the [Research Center for Brain-inspired Intelligence, National Laboratory of Pattern Recognition, CASIA](https://bii.ia.ac.cn/), in June 2019, supervised by Professor [Huiguang He](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/200908/t20090804_2310528.html). Prior to CASIA, I was a Principal Engineer (from July 2019 to June 2021) at Cloud&AI, Huawei Technologies Co. Ltd., Beijing, China. 
 
 My research interest broadly includes artificial intelligence, neural information (fMRI, EEG, etc.) processing, visual neural coding, brain-machine interaction and learning, pattern recognation and data mining.
 
@@ -21,7 +21,7 @@ I have published more than 20 papers in top-tier AI/ML conferences and journals,
 # News
 - 05/2021: Selected as [**Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强)**](https://xueshu.baidu.com/usercenter/index/aischolar) [[百度学术]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361) [[光明网]](https://tech.gmw.cn/2021-05/12/content_34838485.htm)
 
-- 12/2020: Won [**Youth Outstanding Paper Award**] on WRCF--BCI Brain-Controlled Robot Competition [(世界机器人大赛--BCI脑控机器人大赛青年优秀论文奖)](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
+- 12/2020: Won **Youth Outstanding Paper Award** on WRCF--BCI Brain-Controlled Robot Competition [(世界机器人大赛--BCI脑控机器人大赛青年优秀论文)](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
 
 - 11/2020: Our paper on "Doubly Semi-supervised Multimodal Learning" got accepted to [**Information Fusion**](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
 
