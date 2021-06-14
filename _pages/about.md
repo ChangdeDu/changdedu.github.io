@@ -127,7 +127,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 Joint European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2016**), 165-181, 2016  <br>[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46128-1_11)
 
 # Academic Service
-- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR).
+- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), Cognitive Computation, etc.
 
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
