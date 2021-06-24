@@ -51,7 +51,7 @@ I have published 20+ research papers in top-tier AI/ML conferences and journals,
 
 ## 2020
 - **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Conditional Generative Neural Decoding with Structured CNN Feature Prediction
-Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2020**) 34 (03), 2629-2636, 2020  <br>[[PDF]](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2020, Spotlight**) 34 (03), 2629-2636, 2020  <br>[[PDF]](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
 
 - **Changde Du**, Changying Du, Lijie Huang, Haibao Wang, Huiguang He. Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations.
 IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2020  <br>[[PDF]](https://ieeexplore.ieee.org/document/9229132) [[Code]](https://github.com/ChangdeDu/StructuredNeuroDecoding) [[Data]](https://figshare.com/articles/dataset/FaceBold/13019966) [[自动化所]](http://www.ia.cas.cn/xwzx/kydt/202010/t20201027_5723105.html) [[中科院]](https://www.cas.cn/syky/202010/t20201030_4764817.shtml) [[中国图像图形学会]](https://mp.weixin.qq.com/s/AlMFWheKDDKD1Zva_vTTgQ)
