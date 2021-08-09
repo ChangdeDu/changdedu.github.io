@@ -19,6 +19,8 @@ My research interest broadly includes artificial intelligence, visual neuroscien
 I have published 20+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, UAI, TNNLS, Inf. Fusion, Inf. Sci. and PR. I won the Best Paper Runner-Up Award in ICME 2019.
   
 # News
+- 08/2021: Our paper on "Semi-supervised Multi-modal Multi-Label Learning" got accepted to [**IEEE TMM**]
+
 - 05/2021: Selected as [**Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强)**](https://xueshu.baidu.com/usercenter/index/aischolar) [[百度]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361) [[光明网]](https://tech.gmw.cn/2021-05/12/content_34838485.htm)
 
 - 12/2020: Won **Youth Outstanding Paper Award** on WRCF--BCI Brain-Controlled Robot Competition [(世界机器人大赛--BCI脑控机器人大赛青年优秀论文)](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
@@ -45,12 +47,14 @@ I have published 20+ research papers in top-tier AI/ML conferences and journals,
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2021
+- Dan Li, **Changde Du**, Haibao Wang, Qiongyi Zhou, Huiguang He. Deep Modality Assistance Co-Training Network for Semi-Supervised Multi-Label Semantic Decoding. IEEE Transactions on Multimedia (**TMM**), Accept.
+
 - **Changde Du**, Changying Du, Huiguang He. Multimodal Deep Generative Adversarial Models for Scalable Doubly Semi-supervised Learning. Information Fusion (**Inf. Fusion**) 68, 118-130, 2021 <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
 
 - Dan Li, **Changde Du**, Shengpei Wang, Haibao Wang, Huiguang He. Multi-subject Data Augmentation for Target Subject Semantic Decoding with Deep Multi-view Adversarial Learning. Information Sciences (**Inf. Sci.**) 547, 1025-1044, 2021  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025520309221)
 
 ## 2020
-- **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Conditional Generative Neural Decoding with Structured CNN Feature Prediction
+- **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Conditional Generative Neural Decoding with Structured CNN Feature Prediction.
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2020, Spotlight**) 34 (03), 2629-2636, 2020  <br>[[PDF]](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
 
 - **Changde Du**, Changying Du, Lijie Huang, Haibao Wang, Huiguang He. Structured Neural Decoding With Multitask Transfer Learning of Deep Neural Network Representations.
