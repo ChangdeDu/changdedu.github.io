@@ -19,7 +19,10 @@ My research interest broadly includes artificial intelligence, visual neuroscien
 I have published 20+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, UAI, TNNLS, Inf. Fusion, Inf. Sci. and PR. I won the Best Paper Runner-Up Award in ICME 2019.
   
 # News
-- 08/2021: Our paper on "Semi-supervised Multi-modal Multi-Label Learning" got accepted to [**IEEE TMM**]
+
+- 08/2021: I will serve as a PC member for **AAAI-2022**
+
+- 08/2021: Our paper on "Semi-supervised Multi-modal Multi-Label Learning" got accepted to **IEEE TMM**
 
 - 05/2021: Selected as [**Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强)**](https://xueshu.baidu.com/usercenter/index/aischolar) [[百度]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361) [[光明网]](https://tech.gmw.cn/2021-05/12/content_34838485.htm)
 
@@ -131,6 +134,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 Joint European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2016**), 165-181, 2016  <br>[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46128-1_11)
 
 # Academic Service
+- Conference Reviewer: AAAI-2022, etc.
 - Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), Cognitive Computation, etc.
 
 # Awards and Achievements
