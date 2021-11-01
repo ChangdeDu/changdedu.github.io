@@ -136,6 +136,7 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 # Academic Service
 - Conference Reviewer: AAAI-2022, etc.
 - Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), Cognitive Computation, etc.
+- 中国自动化学会模式识别与机器智能专委会，委员
 
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
