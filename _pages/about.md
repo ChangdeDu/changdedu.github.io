@@ -20,7 +20,7 @@ I have published 20+ research papers in top-tier AI/ML conferences and journals,
   
 # News
 
-- 11/2021: I was funded by the **Special Research Assistant Program of the Chinese Academy of Sciences**
+- 11/2021: I was funded by the **Special Research Assistant Program of the Chinese Academy of Sciences(中科院特别研究助理)**
 
 - 08/2021: I will serve as a PC member for **AAAI-2022**
 
