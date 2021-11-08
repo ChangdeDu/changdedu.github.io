@@ -20,6 +20,8 @@ I have published 20+ research papers in top-tier AI/ML conferences and journals,
   
 # News
 
+- 11/2021: I was funded by the **Special Research Assistant Program of the Chinese Academy of Sciences**
+
 - 08/2021: I will serve as a PC member for **AAAI-2022**
 
 - 08/2021: Our paper on "Semi-supervised Multi-modal Multi-Label Learning" got accepted to **IEEE TMM**
