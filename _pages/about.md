@@ -19,6 +19,7 @@ My research interest broadly includes artificial intelligence, visual neuroscien
 I have published 20+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, UAI, TNNLS, Inf. Fusion, Inf. Sci. TMM and PR. I won the Best Paper Runner-Up Award in ICME 2019.
   
 # News
+- 11/2021: I will serve as reviewer for **CVPR-2022**
 
 - 11/2021: I was funded by the **Special Research Assistant Program of the Chinese Academy of Sciences(中科院特别研究助理)**
 
@@ -136,7 +137,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 Joint European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2016**), 165-181, 2016  <br>[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46128-1_11)
 
 # Academic Service
-- Conference Reviewer: AAAI-2022, etc.
+- Conference Reviewer: CVPR-2022, AAAI-2022, etc.
 - Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), Cognitive Computation, etc.
 - 中国自动化学会模式识别与机器智能专委会，委员
 
