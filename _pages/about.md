@@ -16,10 +16,10 @@ I obtained my PhD degree from the [Research Center for Brain-inspired Intelligen
 
 My research interest broadly includes artificial intelligence, visual neuroscience,  neural coding, brain-machine interaction and learning, neural information (fMRI, EEG, etc.) pattern recognition and data mining.
 
-I have published 20+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, UAI, TNNLS, Inf. Fusion, Inf. Sci. TMM and PR. I won the Best Paper Runner-Up Award in ICME 2019.
+I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, UAI, TNNLS, Inf. Fusion, Inf. Sci. TMM and PR. I won the Best Paper Runner-Up Award in ICME 2019.
   
 # News
-- 11/2021: I will serve as reviewer for **CVPR-2022**
+- 11/2021: I will serve as a reviewer for **CVPR-2022**
 
 - 11/2021: I was funded by the **Special Research Assistant Program of the Chinese Academy of Sciences(中科院特别研究助理)**
 
