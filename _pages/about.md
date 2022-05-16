@@ -140,10 +140,10 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 
 # Academic Service
 - Conference Reviewer: CVPR-2022, AAAI-2022, ECCV-2022, etc.
-- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), Cognitive Computation, etc.
+- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Industrial Informatics(TII), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), Cognitive Computation, etc.
 - 中国自动化学会模式识别与机器智能专委会，委员
 - 中国图象图形学学会视觉大数据专委会，委员
-
+- 中国人工智能学会模式识别专委会，委员
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
 - 2020 World Robot Competition Finals--BCI Brain-Controlled Robot Competition Youth Outstanding Paper Award Honorable Mention (世界机器人大赛--BCI脑控机器人大赛青年优秀论文，共十篇) [[Link]](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
