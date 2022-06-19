@@ -19,9 +19,10 @@ My research interest broadly includes artificial intelligence, visual neuroscien
 I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, MICCAI, UAI, IEEE TNNLS/TMM/TCDS, Information Fusion, and Pattern Recognition. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
-- 06/2022: Our paper on "Exploring the Brain-like Properties of DNNs: A Neural Encoding Perspective" got accepted to **Machine Intelligence Research**
 
 - 06/2022: Our paper on "Graph Emotion Decoding from Visually Evoked Neural Responses" got accepted to **MICCAI 2022**
+
+- 06/2022: Our paper on "Exploring the Brain-like Properties of DNNs: A Neural Encoding Perspective" got accepted to **Machine Intelligence Research**
 
 - 03/2022: I will serve as a reviewer for **ECCV-2022**
 
@@ -58,12 +59,20 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
+## 2022
+
+- Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) Accept
+
+- Qiongyi Zhou, **Changde Du**, Huiguang He. Exploring the brain-like properties of deep neural networks: a neural encoding perspective. Machine Intelligence Research (**MIR**), Accept
+
+- Qiongyi Zhou, **Changde Du**, Dan Li, Haibao Wang, Jian K Liu, Huiguang He. Neural Encoding and Decoding with a Flow-based Invertible Generative Model. IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 10.1109/TCDS.2022.3176977, 2021 <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/9780264)
+
 ## 2021
-- Dan Li, **Changde Du**, Haibao Wang, Qiongyi Zhou, Huiguang He. Deep Modality Assistance Co-Training Network for Semi-Supervised Multi-Label Semantic Decoding. IEEE Transactions on Multimedia (**TMM**), Accept.
+- Dan Li, **Changde Du**, Haibao Wang, Qiongyi Zhou, Huiguang He. Deep Modality Assistance Co-Training Network for Semi-Supervised Multi-Label Semantic Decoding. IEEE Transactions on Multimedia (**TMM**), 10.1109/TMM.2021.3104980, 2021 <br>[[PDF]](https://ieeexplore.ieee.org/document/9516952)
 
-- **Changde Du**, Changying Du, Huiguang He. Multimodal Deep Generative Adversarial Models for Scalable Doubly Semi-supervised Learning. Information Fusion (**Inf. Fusion**) 68, 118-130, 2021 <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
+- **Changde Du**, Changying Du, Huiguang He. Multimodal Deep Generative Adversarial Models for Scalable Doubly Semi-supervised Learning. Information Fusion (**Information Fusion**) 68, 118-130, 2021 <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
 
-- Dan Li, **Changde Du**, Shengpei Wang, Haibao Wang, Huiguang He. Multi-subject Data Augmentation for Target Subject Semantic Decoding with Deep Multi-view Adversarial Learning. Information Sciences (**Inf. Sci.**) 547, 1025-1044, 2021  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025520309221)
+- Dan Li, **Changde Du**, Shengpei Wang, Haibao Wang, Huiguang He. Multi-subject Data Augmentation for Target Subject Semantic Decoding with Deep Multi-view Adversarial Learning. Information Sciences (**Information Sciences**) 547, 1025-1044, 2021  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025520309221)
 
 ## 2020
 - **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Conditional Generative Neural Decoding with Structured CNN Feature Prediction.
