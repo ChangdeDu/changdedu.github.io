@@ -19,6 +19,7 @@ My research interest broadly includes artificial intelligence, visual neuroscien
 I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, MICCAI, UAI, IEEE TNNLS/TMM/TCDS, Information Fusion, and Pattern Recognition. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
+- 07/2022: Our paper on "Multimodal Vigilance Estimation in RSVP-Based BCI" got accepted to **ACMMM 2022**
 
 - 06/2022: Our paper on "Graph Emotion Decoding from Visually Evoked Neural Responses" got accepted to **MICCAI 2022**
 
@@ -60,7 +61,8 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2022
-
+- Xinyu Cheng, Wei Wei, **Changde Du**, Shuang Qiu, Sanli Tian, Xiaojun Ma, Huiguang He. VigilanceNet: Decouple Intra- and Inter-Modality Learning for Multimodal Vigilance Estimation in RSVP-Based BCI. Proceedings of the 30th ACM international conference on Multimedia (**ACMMM 2022**) Accept
+- 
 - Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) Accept
 
 - Qiongyi Zhou, **Changde Du**, Huiguang He. Exploring the brain-like properties of deep neural networks: a neural encoding perspective. Machine Intelligence Research (**MIR**), Accept
