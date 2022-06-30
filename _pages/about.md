@@ -62,7 +62,7 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 
 ## 2022
 - Xinyu Cheng, Wei Wei, **Changde Du**, Shuang Qiu, Sanli Tian, Xiaojun Ma, Huiguang He. VigilanceNet: Decouple Intra- and Inter-Modality Learning for Multimodal Vigilance Estimation in RSVP-Based BCI. Proceedings of the 30th ACM international conference on Multimedia (**ACMMM 2022**) Accept
-- 
+
 - Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) Accept
 
 - Qiongyi Zhou, **Changde Du**, Huiguang He. Exploring the brain-like properties of deep neural networks: a neural encoding perspective. Machine Intelligence Research (**MIR**), Accept
