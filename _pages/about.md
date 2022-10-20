@@ -19,6 +19,8 @@ My research interest broadly includes artificial intelligence, cognitive neurosc
 I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, MICCAI, UAI, IEEE TNNLS/TMM/TCDS, Information Fusion, and Pattern Recognition. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
+- 10/2022: My new work on [**"multimodal brain-machine intelligence"**](https://arxiv.org/abs/2210.06756) is now online. The code and dataset have also been released.
+
 - 09/2022: I will serve as a reviewer for **ICLR-2023**
 
 - 09/2022: I was funded by the **National Natural Science Foundation of China(国自然青年基金)**
