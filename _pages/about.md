@@ -65,6 +65,8 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2022
+- **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**]. 	arXiv:2210.06756, 2022. <br>[[PDF]](https://arxiv.org/abs/2210.06756) [[Code]](https://github.com/ChangdeDu/BraVL)
+
 - Xinyu Cheng, Wei Wei, **Changde Du**, Shuang Qiu, Sanli Tian, Xiaojun Ma, Huiguang He. VigilanceNet: Decouple Intra- and Inter-Modality Learning for Multimodal Vigilance Estimation in RSVP-Based BCI. Proceedings of the 30th ACM international conference on Multimedia (**ACMMM 2022**) Accept
 
 - Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) Accept
