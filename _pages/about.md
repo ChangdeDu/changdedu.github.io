@@ -19,6 +19,10 @@ My research interest broadly includes artificial intelligence, cognitive neurosc
 I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, MICCAI, UAI, IEEE TNNLS/TMM/TCDS, Information Fusion, and Pattern Recognition. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
+- 11/2022: I will serve as a reviewer for **CVPR-2023**
+
+- 11/2022: Our paper on "Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity" got accepted to **IEEE TNNLS**
+
 - 10/2022: My new work on [**"multimodal brain-machine intelligence"**](https://arxiv.org/abs/2210.06756) is now online. The code and dataset have also been released.
 
 - 09/2022: I will serve as a reviewer for **ICLR-2023**
@@ -68,6 +72,8 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 
 ## 2022
 - **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). 	arXiv:2210.06756, 2022. <br>[[PDF]](https://arxiv.org/abs/2210.06756) [[Code]](https://github.com/ChangdeDu/BraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591)
+
+- Kaicheng Fu, **Changde Du**, Shengpei Wang, Huiguang He. Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS 2022**), (Co-first author), Accept
 
 - Xinyu Cheng, Wei Wei, **Changde Du**, Shuang Qiu, Sanli Tian, Xiaojun Ma, Huiguang He. VigilanceNet: Decouple Intra- and Inter-Modality Learning for Multimodal Vigilance Estimation in RSVP-Based BCI. Proceedings of the 30th ACM international conference on Multimedia (**ACMMM 2022**) Accept
 
