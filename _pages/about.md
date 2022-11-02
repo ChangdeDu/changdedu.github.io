@@ -186,3 +186,8 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 -	2017 CAS Institute of Automation “Pandeng” Scholarship
 -	2017 Top 40 for the Baidu Scholarship (百度奖学金40强) [[Link]](https://mp.weixin.qq.com/s/sTWcdiDmGaufXvfe5w0Wxg)
 -	2017 University of CAS Merit Student
+
+# Fundings
+-	National Natural Science Foundation of China (国家自然科学基金委)
+-	Special Research Assistant Program of the Chinese Academy of Sciences(中科院)
+-	CAAI&HUAWEI (华为公司)
