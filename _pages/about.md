@@ -173,6 +173,7 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 - 中国自动化学会模式识别与机器智能专委会，委员
 - 中国图象图形学学会视觉大数据专委会，委员
 - 中国人工智能学会模式识别专委会，委员
+- 
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
 - 2020 World Robot Competition Finals--BCI Brain-Controlled Robot Competition Youth Outstanding Paper Award Honorable Mention (世界机器人大赛--BCI脑控机器人大赛青年优秀论文，共十篇) [[Link]](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
@@ -189,5 +190,5 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 
 # Fundings
 -	National Natural Science Foundation of China (国家自然科学基金委)
--	Special Research Assistant Program of the Chinese Academy of Sciences(中科院)
+-	Chinese Academy of Sciences(中科院)
 -	CAAI&HUAWEI (华为公司)
