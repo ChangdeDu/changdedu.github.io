@@ -191,4 +191,4 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 # Fundings
 -	National Natural Science Foundation of China (国家自然科学基金委)
 -	Chinese Academy of Sciences(中科院)
--	CAAI&HUAWEI (华为公司)
+-	HUAWEI (华为公司)
