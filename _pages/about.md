@@ -21,7 +21,7 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 # News
 - 11/2022: I will serve as a reviewer for **CVPR-2023**
 
-- 11/2022: Our paper on "Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity" got accepted to **IEEE TNNLS**
+- 11/2022: Our paper on "Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity" got accepted to [**IEEE TNNLS**](https://arxiv.org/abs/2211.02629)
 
 - 10/2022: My new work on [**"multimodal brain-machine intelligence"**](https://arxiv.org/abs/2210.06756) is now online. The code and dataset have also been released.
 
