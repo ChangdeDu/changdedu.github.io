@@ -153,19 +153,19 @@ arXiv preprint arXiv:1704.07548, 2017 <br>[[PDF]](https://arxiv.org/abs/1704.075
 In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**), 1830-1836, 2017  <br>[[PDF]](https://www.ijcai.org/proceedings/2017/0254.pdf)
 
 ## 2016
-- **Changde Du**, Changying Du, Shandian Zhe, Ali Luo, Qing He, Guoping Long. Bayesian Group Feature Selection for Support Vector Learning Machines.
-Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2016, Long Oral**), 239-252, 2016 <br>[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_20)
+<!--- **Changde Du**, Changying Du, Shandian Zhe, Ali Luo, Qing He, Guoping Long. Bayesian Group Feature Selection for Support Vector Learning Machines.
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2016, Long Oral**), 239-252, 2016 <br>[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_20)-->
 
-- **Changde Du**, Ali Luo, Haifeng Yang, Wen Hou, Yanxin Guo. An Efficient Method for Rare Spectra Retrieval in Astronomical Databases.
-Publications of the Astronomical Society of the Pacific (**PASP**) 128 (961), 034502, 2016  <br>[[PDF]](https://arxiv.org/abs/1603.04544)
+<!--- **Changde Du**, Ali Luo, Haifeng Yang, Wen Hou, Yanxin Guo. An Efficient Method for Rare Spectra Retrieval in Astronomical Databases.
+Publications of the Astronomical Society of the Pacific (**PASP**) 128 (961), 034502, 2016  <br>[[PDF]](https://arxiv.org/abs/1603.04544)-->
 
-- **Changde Du**, Ali Luo, Haifeng Yang. Adaptive Stellar Spectral Subclass Classification Based on Bayesian SVMs. New Astronomy 51, 51-58, 2016  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1384107616300793)
+<!--- **Changde Du**, Ali Luo, Haifeng Yang. Adaptive Stellar Spectral Subclass Classification Based on Bayesian SVMs. New Astronomy 51, 51-58, 2016  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1384107616300793)-->
 
 - Changying Du, **Changde Du**, Guoping Long, Qing He, Yucheng Li. Online Bayesian Multiple Kernel Bipartite Ranking.
 Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[[PDF]](http://auai.org/uai2016/proceedings/papers/13.pdf)
 
-- Changying Du, **Changde Du**, Guoping Long, Xin Jin, Yucheng Li. Efficient Bayesian Maximum Margin Multiple Kernel Learning.
-Joint European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2016**), 165-181, 2016  <br>[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46128-1_11)
+<!--- Changying Du, **Changde Du**, Guoping Long, Xin Jin, Yucheng Li. Efficient Bayesian Maximum Margin Multiple Kernel Learning.
+Joint European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2016**), 165-181, 2016  <br>[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46128-1_11)-->
 
 # Academic Service
 - Conference Reviewer: ICLR-2023, CVPR-2023/2022, AAAI-2022, ECCV-2022, etc.
