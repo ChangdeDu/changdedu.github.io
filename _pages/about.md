@@ -35,8 +35,6 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 
 - 06/2022: Our paper on "Graph Emotion Decoding from Visually Evoked Neural Responses" got accepted to **MICCAI 2022**
 
-- 06/2022: Our paper on "Exploring the Brain-like Properties of DNNs: A Neural Encoding Perspective" got accepted to **Machine Intelligence Research**
-
 - 03/2022: I will serve as a reviewer for **ECCV-2022**
 
 - 11/2021: I will serve as a reviewer for **CVPR-2022**
@@ -55,15 +53,9 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 
 - 09/2020: Our paper on "Multitask Structured Neural Decoding" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9229132)
 
-- 09/2020: Our paper on "Multi-subject Adversarial Semantic Decoding" got accepted to [**Information Sciences**](https://www.sciencedirect.com/science/article/abs/pii/S0020025520309221)
-
-- 06/2020: Our paper on "“What" and “Where" Interpretable Neural Encoding Model" got accepted to [**IEEE TCDS**](https://ieeexplore.ieee.org/document/9134376)
-
 - 03/2020: Our paper on "Brain-inspired Dynamical DNN Channel Pruning" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9055425?reason=concurrency)
 
 - 11/2019: Our paper on "Conditional Generative Neural Decoding" got accepted to [**AAAI'20**](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
-
-- 10/2019: Our paper on "Semi-supervised Cross-modal Image Generation" got accepted to  [**Pattern Recognition**](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303863)
 
 - 07/2019: Our paper won [**ICME'19 Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 
@@ -114,7 +106,7 @@ IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 2020 <br>[[
 
 ## 2018
 - **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multiview Learning.
-IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 2310-2323, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8574054) [[Code]](https://github.com/ChangdeDu/DGMM) [[国家自然科学基金委]](http://www.nsfc.gov.cn/csc/20340/20343/33891/index.html) [[中科院]](https://www.cas.cn/syky/201812/t20181218_4674223.shtml)
+IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 2310-2323, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8574054) [[Code]](https://github.com/ChangdeDu/DGMM) [[国家自然科学基金委]](http://www.nsfc.gov.cn/csc/20340/20343/33891/index.html) [[中科院]](https://www.cas.cn/syky/201812/t20181218_4674223.shtml) [[MIT Technology Review (麻省理工科技评论)]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)
 
 - **Changde Du**, Changying Du, Hao Wang, Jinpeng Li, Wei-Long Zheng, Bao-Liang Lu, Huiguang He. Semi-supervised Deep Generative Modelling of Incomplete Multi-modality Emotional Data. Proceedings of the 26th ACM international conference on Multimedia (**ACMMM 2018**), 108-116, 2018 <br>[[PDF]](https://arxiv.org/pdf/1808.02096.pdf) [[Code]](https://github.com/ChangdeDu/semiMVAE)
 
@@ -122,14 +114,9 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 23
 
 - Changying Du, Xingyu Xie, **Changde Du** and Hao Wang. Redundancy-resistant Generative Hashing for Image Retrieval. In Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (**IJCAI 2018**) , Stockholm, Sweden, July 13-19, 2018  <br>[[PDF]](https://www.ijcai.org/proceedings/2018/0696.pdf) 
 
-## 2017 
-- **Changde Du**, Changying Du, Huiguang He. Sharing Deep Generative Representation for Perceived Image Reconstruction from Human Brain Activity.
-International Joint Conference on Neural Networks (**IJCNN 2017**), 1049-1056, 2017  <br>[[PDF]](https://arxiv.org/abs/1704.07575)  [[Code]](https://github.com/ChangdeDu/DGMM)  [[OHBM Talks, Top 3%]](https://www.pathlms.com/ohbm/courses/5158/sections/7807/video_presentations/76069) [[MIT Technology Review (麻省理工科技评论)]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)  [[中科院]](http://english.cas.cn/newsroom/archive/research_archive/rp2017/201705/t20170511_176994.shtml)  
-
 - Jia He, Changying Du, **Changde Du**, Fuzhen Zhuang, Qing He, Guoping Long. Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel.
 In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**), 1830-1836, 2017  <br>[[PDF]](https://www.ijcai.org/proceedings/2017/0254.pdf)
 
-## 2016
 - Changying Du, **Changde Du**, Guoping Long, Qing He, Yucheng Li. Online Bayesian Multiple Kernel Bipartite Ranking.
 Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[[PDF]](http://auai.org/uai2016/proceedings/papers/13.pdf)
 
@@ -157,4 +144,4 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 # Fundings
 -	National Natural Science Foundation of China (国家自然科学基金委)
 -	Chinese Academy of Sciences(中科院)
--	CAAU&HUAWEI (中国人工智能学会-华为公司)
+-	CAAI&HUAWEI (中国人工智能学会-华为公司)
