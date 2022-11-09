@@ -97,22 +97,21 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 32, 799-8
 - Haibao Wang, Lijie Huang, **Changde Du**, Dan Li, Bo Wang, Huiguang He. Neural Encoding for Human Visual Cortex with Deep Neural Networks Learning “What" and “Where".
 IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 2020 <br>[[PDF]](https://ieeexplore.ieee.org/document/9134376) [[Talk]](https://www.bilibili.com/video/av842868927/)
 
-## 2019
+## 2019 and earlier
 - **Changde Du**, Jinpeng Li, Lijie Huang, Huiguang He. Brain Encoding and Decoding in fMRI with Bidirectional Deep Generative Models.
 **Engineering** 5 (5), 948-953, 2019 <br>[[PDF]](https://www.sciencedirect.com/science/article/pii/S2095809917305647) [[中文版]](http://www.engineering.org.cn/ch/10.1016/j.eng.2019.03.010)
 
 - **Changde Du**, Changying Du, Huiguang He. Doubly Semi-Supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval. 
 2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**, **Best Paper Runner-Up Award**), 13-18, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922) [[**Best Paper Runner-Up Award**]](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 
-## 2018
 - **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multiview Learning.
 IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 2310-2323, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8574054) [[Code]](https://github.com/ChangdeDu/DGMM) [[国家自然科学基金委]](http://www.nsfc.gov.cn/csc/20340/20343/33891/index.html) [[中科院]](https://www.cas.cn/syky/201812/t20181218_4674223.shtml) [[MIT Technology Review (麻省理工科技评论)]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)
 
 - **Changde Du**, Changying Du, Hao Wang, Jinpeng Li, Wei-Long Zheng, Bao-Liang Lu, Huiguang He. Semi-supervised Deep Generative Modelling of Incomplete Multi-modality Emotional Data. Proceedings of the 26th ACM international conference on Multimedia (**ACMMM 2018**), 108-116, 2018 <br>[[PDF]](https://arxiv.org/pdf/1808.02096.pdf) [[Code]](https://github.com/ChangdeDu/semiMVAE)
 
-- Changying Du, **Changde Du**, Xingyu Xie, Chen Zhang and Hao Wang. Multiview Adversarially Learned Inference for Cross-domain Joint Distribution Matching. In Proceedings of the 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2018, Long oral**) , London, United Kingdom, August 19-23, 2018 <br>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219957) 
+- Changying Du, **Changde Du**, Xingyu Xie, Chen Zhang and Hao Wang. Multiview Adversarially Learned Inference for Cross-domain Joint Distribution Matching. In Proceedings of the 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2018, Long oral**), <br>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219957) 
 
-- Changying Du, Xingyu Xie, **Changde Du** and Hao Wang. Redundancy-resistant Generative Hashing for Image Retrieval. In Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (**IJCAI 2018**) , Stockholm, Sweden, July 13-19, 2018  <br>[[PDF]](https://www.ijcai.org/proceedings/2018/0696.pdf) 
+- Changying Du, Xingyu Xie, **Changde Du** and Hao Wang. Redundancy-resistant Generative Hashing for Image Retrieval. In Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (**IJCAI 2018**),  <br>[[PDF]](https://www.ijcai.org/proceedings/2018/0696.pdf) 
 
 - Jia He, Changying Du, **Changde Du**, Fuzhen Zhuang, Qing He, Guoping Long. Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel.
 In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**), 1830-1836, 2017  <br>[[PDF]](https://www.ijcai.org/proceedings/2017/0254.pdf)
