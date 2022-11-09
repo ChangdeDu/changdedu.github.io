@@ -19,6 +19,8 @@ My research interest broadly includes artificial intelligence, cognitive neurosc
 I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, MICCAI, UAI, IEEE TNNLS/TMM/TCDS, Information Fusion, and Pattern Recognition. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
+- 11/2022：入选中国人工智能学会—华为 MindSpore 学术奖励基金
+
 - 11/2022: I will serve as a reviewer for **CVPR-2023**
 
 - 11/2022: Our paper on "Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity" got accepted to [**IEEE TNNLS**](https://arxiv.org/abs/2211.02629)
@@ -81,8 +83,6 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 
 - Qiongyi Zhou, **Changde Du**, Huiguang He. Exploring the brain-like properties of deep neural networks: a neural encoding perspective. Machine Intelligence Research (**MIR**), Accept
 
-- Qiongyi Zhou, **Changde Du**, Dan Li, Haibao Wang, Jian K Liu, Huiguang He. Neural Encoding and Decoding with a Flow-based Invertible Generative Model. IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 10.1109/TCDS.2022.3176977, 2021 <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/9780264)
-
 ## 2021
 - Dan Li, **Changde Du**, Haibao Wang, Qiongyi Zhou, Huiguang He. Deep Modality Assistance Co-Training Network for Semi-Supervised Multi-Label Semantic Decoding. IEEE Transactions on Multimedia (**TMM**), 10.1109/TMM.2021.3104980, 2021 <br>[[PDF]](https://ieeexplore.ieee.org/document/9516952)
 
@@ -99,9 +99,6 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2020  <br
 
 - Dan Li, **Changde Du**, Huiguang He. Semi-supervised Cross-modal Image Generation with Generative Adversarial Networks. Pattern Recognition (**PR**) 100, 107085, 2020  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303863)
 
-- Qiongyi Zhou, **Changde Du**, Dan Li, Haibao Wang, Jian K Liu, Huiguang He. Simultaneous Neural Spike Encoding and Decoding Based on Cross-modal Dual Deep Generative Model.
-International Joint Conference on Neural Networks (**IJCNN 2020**), 1-8, 2020  <br>[[PDF]](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_WCCI_2020/IJCNN/Papers/N-20163.pdf)
-
 - Zhiqiang Chen, Ting-Bing Xu, **Changde Du**, Cheng-Lin Liu, Huiguang He. Dynamical Channel Pruning by Conditional Accuracy Change for Deep Neural Networks.
 IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 32, 799-813, 2020  <br>[[PDF]](https://ieeexplore.ieee.org/document/9055425?reason=concurrency)
 
@@ -115,14 +112,6 @@ IEEE Transactions on Cognitive and Developmental Systems (**TCDS**), 2020 <br>[[
 - **Changde Du**, Changying Du, Huiguang He. Doubly Semi-Supervised Multimodal Adversarial Learning for Classification, Generation and Retrieval. 
 2019 IEEE International Conference on Multimedia and Expo (**ICME 2019**, **Best Paper Runner-Up Award**), 13-18, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784922) [[**Best Paper Runner-Up Award**]](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 
-- **Changde Du**, Research on Neural Encoding and Decoding with Multi-view Deep Learning, Ph.D. Dissertation of the Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China, June, 2019
-
-- Jinpeng Li, Shuang Qiu, **Changde Du**, Yixin Wang, Huiguang He. Domain Adaptation for EEG Emotion Recognition Based on Latent Representation Similarity.
-IEEE Transactions on Cognitive and Developmental Systems (**TCDS**) 12 (2), 344-353, 2019 <br>[[PDF]](https://ieeexplore.ieee.org/document/8882370)
-
-- Haibao Wang, Lijie Huang, **Changde Du**, Huiguang He. Learning" What" and" Where": An Interpretable Neural Encoding Model.
-International Joint Conference on Neural Networks (**IJCNN 2019**), 1-8, 2019  <br>[[PDF]](https://ieeexplore.ieee.org/document/8852117)
-
 ## 2018
 - **Changde Du**, Changying Du, Lijie Huang, Huiguang He. Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multiview Learning.
 IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 2310-2323, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8574054) [[Code]](https://github.com/ChangdeDu/DGMM) [[国家自然科学基金委]](http://www.nsfc.gov.cn/csc/20340/20343/33891/index.html) [[中科院]](https://www.cas.cn/syky/201812/t20181218_4674223.shtml)
@@ -131,41 +120,18 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 30 (8), 23
 
 - Changying Du, **Changde Du**, Xingyu Xie, Chen Zhang and Hao Wang. Multiview Adversarially Learned Inference for Cross-domain Joint Distribution Matching. In Proceedings of the 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2018, Long oral**) , London, United Kingdom, August 19-23, 2018 <br>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219957) 
 
-- Zhiqiang Chen, **Changde Du**, Lijie Huang, Dan Li, Huiguang He. Improving Image Classification Performance with Automatically Hierarchical Label Clustering.
-24th International Conference on Pattern Recognition (**ICPR 2018**), 1863-1868, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8546042) 
-
-- Dan Li, **Changde Du**, Lijie Huang, Zhiqiang Chen, Huiguang He. Multi-label Semantic Decoding from Human Brain Activity.
-24th International Conference on Pattern Recognition (**ICPR 2018**), 3796-3801, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/document/8545855)
-
 - Changying Du, Xingyu Xie, **Changde Du** and Hao Wang. Redundancy-resistant Generative Hashing for Image Retrieval. In Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (**IJCAI 2018**) , Stockholm, Sweden, July 13-19, 2018  <br>[[PDF]](https://www.ijcai.org/proceedings/2018/0696.pdf) 
-
-- Xuelin Ma, Shuang Qiu, **Changde Du**, Jiezhen Xing, Huiguang He. Improving EEG-Based Motor Imagery Classification via Spatial and Temporal Recurrent Neural Networks.
-40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (**EMBC 2018**), 1903-1906, 2018  <br>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8512590)
 
 ## 2017 
 - **Changde Du**, Changying Du, Huiguang He. Sharing Deep Generative Representation for Perceived Image Reconstruction from Human Brain Activity.
 International Joint Conference on Neural Networks (**IJCNN 2017**), 1049-1056, 2017  <br>[[PDF]](https://arxiv.org/abs/1704.07575)  [[Code]](https://github.com/ChangdeDu/DGMM)  [[OHBM Talks, Top 3%]](https://www.pathlms.com/ohbm/courses/5158/sections/7807/video_presentations/76069) [[MIT Technology Review (麻省理工科技评论)]](https://www.technologyreview.com/2017/05/06/151950/mind-reading-algorithms-reconstruct-what-youre-seeing-using-brain-scan-data/)  [[中科院]](http://english.cas.cn/newsroom/archive/research_archive/rp2017/201705/t20170511_176994.shtml)  
 
-- **Changde Du**, Changying Du, Jinpeng Li, Wei-long Zheng, Bao-liang Lu, Huiguang He. Semi-supervised Bayesian Deep multi-modal emotion recognition.
-arXiv preprint arXiv:1704.07548, 2017 <br>[[PDF]](https://arxiv.org/abs/1704.07548)  [[Code]](https://github.com/ChangdeDu/semiMVAE)
-
 - Jia He, Changying Du, **Changde Du**, Fuzhen Zhuang, Qing He, Guoping Long. Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel.
 In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**), 1830-1836, 2017  <br>[[PDF]](https://www.ijcai.org/proceedings/2017/0254.pdf)
 
 ## 2016
-- **Changde Du**, Changying Du, Shandian Zhe, Ali Luo, Qing He, Guoping Long. Bayesian Group Feature Selection for Support Vector Learning Machines.
-Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2016, Long Oral**), 239-252, 2016 <br>[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_20)
-
-- **Changde Du**, Ali Luo, Haifeng Yang, Wen Hou, Yanxin Guo. An Efficient Method for Rare Spectra Retrieval in Astronomical Databases.
-Publications of the Astronomical Society of the Pacific (**PASP**) 128 (961), 034502, 2016  <br>[[PDF]](https://arxiv.org/abs/1603.04544)
-
-- **Changde Du**, Ali Luo, Haifeng Yang. Adaptive Stellar Spectral Subclass Classification Based on Bayesian SVMs. New Astronomy 51, 51-58, 2016  <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1384107616300793)
-
 - Changying Du, **Changde Du**, Guoping Long, Qing He, Yucheng Li. Online Bayesian Multiple Kernel Bipartite Ranking.
 Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[[PDF]](http://auai.org/uai2016/proceedings/papers/13.pdf)
-
-- Changying Du, **Changde Du**, Guoping Long, Xin Jin, Yucheng Li. Efficient Bayesian Maximum Margin Multiple Kernel Learning.
-Joint European Conference on Machine Learning and Knowledge Discovery in Databases (**ECML PKDD 2016**), 165-181, 2016  <br>[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46128-1_11)
 
 # Academic Service
 - Conference Reviewer: ICLR-2023, CVPR-2023/2022, AAAI-2022, ECCV-2022, etc.
@@ -191,4 +157,4 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 # Fundings
 -	National Natural Science Foundation of China (国家自然科学基金委)
 -	Chinese Academy of Sciences(中科院)
--	HUAWEI (华为公司)
+-	CAAU&HUAWEI (中国人工智能学会-华为公司)
