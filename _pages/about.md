@@ -121,7 +121,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 
 # Academic Service
 - Conference Reviewer: ICLR-2023, CVPR-2023/2022, AAAI-2022, ECCV-2022, etc.
-- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Industrial Informatics(TII), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), Cognitive Computation, etc.
+- Journal Reviewer: TPAMI, TNNLS, NeuroImage, IEEE Trans. on Affective Computing (TAC), IEEE Trans. on Industrial Informatics(TII), IEEE Trans. on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), etc.
 - 中国自动化学会模式识别与机器智能专委会，委员
 - 中国图象图形学学会视觉大数据专委会，委员
 - 中国人工智能学会模式识别专委会，委员
