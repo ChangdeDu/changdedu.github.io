@@ -19,6 +19,8 @@ My research interest broadly includes artificial intelligence, cognitive neurosc
 I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, MICCAI, UAI, IEEE TNNLS/TMM/TCDS, Information Fusion, and Pattern Recognition. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
+- 02/2023: Our paper on "Graph-Enhanced Emotion Neural Decoding" got accepted to [**IEEE TMI**]
+
 - 02/2023: I will serve as a reviewer for **ICCV-2023**
 
 - 11/2022：入选中国人工智能学会—华为 MindSpore 学术奖励基金
@@ -65,6 +67,10 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 # Recent publications 
 
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
+
+## 2023
+- Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**) Accept
+
 
 ## 2022
 - **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). 	arXiv:2210.06756, 2022. <br>[[PDF]](https://arxiv.org/abs/2210.06756) [[Code]](https://github.com/ChangdeDu/BraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591)
