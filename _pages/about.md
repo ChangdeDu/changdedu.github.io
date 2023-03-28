@@ -16,7 +16,7 @@ I obtained my PhD degree from the [Research Center for Brain-inspired Intelligen
 
 My research interest broadly includes artificial intelligence, cognitive neuroscience, neural information encoding&decoding, brain-machine interaction and learning, advanced machine learning approaches for brain mapping (fMRI, EEG, etc.).
 
-I have published 30+ research papers in top-tier AI/ML conferences and journals, including AAAI, KDD, IJCAI, ACMMM, MICCAI, UAI, IEEE TNNLS/TMM/TCDS, Information Fusion, and Pattern Recognition. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
+I have published 40+ research papers in top-tier AI/ML conferences and journals, including IEEE TPAMI/TNNLS/TMM/TMI, Information Fusion, Pattern Recognition, AAAI, KDD, IJCAI, ACMMM, UAI etc. I won the Best Paper Runner-Up Award in IEEE ICME 2019.
   
 # News
 - 03/2023: Our paper on "Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [**IEEE TPAMI**]. The code and dataset have also been released.
