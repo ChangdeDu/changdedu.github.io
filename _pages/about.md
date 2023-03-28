@@ -30,7 +30,7 @@ I have published 30+ research papers in top-tier AI/ML conferences and journals,
 - 11/2022: I will serve as a reviewer for **CVPR-2023**
 
 - 11/2022: Our paper on "Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity" got accepted to [**IEEE TNNLS**](https://arxiv.org/abs/2211.02629)
-- 
+
 - 09/2022: I will serve as a reviewer for **ICLR-2023**
 
 - 09/2022: I was funded by the **National Natural Science Foundation of China(国自然青年基金)**
