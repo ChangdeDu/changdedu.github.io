@@ -148,6 +148,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 -	2017 University of CAS Merit Student
 
 # Fundings
--	National Natural Science Foundation of China (国家自然科学基金委)
+-	National Natural Science Foundation of China (国家自然科学基金委）
+-	科技部国家重点研发
 -	Chinese Academy of Sciences(中科院)
 -	CAAI&HUAWEI (中国人工智能学会-华为公司)
