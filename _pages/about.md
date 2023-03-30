@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[//]: # (I am currently an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) , Beijing, China.
+[comment]: <> (I am currently an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) , Beijing, China.
 I obtained my PhD degree from the [Research Center for Brain-inspired Intelligence, National Laboratory of Pattern Recognition, CASIA](https://bii.ia.ac.cn/), in  June 2019, supervised by Professor [Huiguang He](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/200908/t20090804_2310528.html). Prior to CASIA, I was a Principal Engineer (L18, from July 2019 to June 2021) at Cloud&AI, Huawei Technologies Co. Ltd., Beijing, China. 
 My research interest broadly includes artificial intelligence, cognitive neuroscience, neural information encoding&decoding, brain-machine interaction and learning, advanced machine learning approaches for brain mapping (fMRI, EEG, etc.).
 I have published 40+ research papers in top-tier AI/ML conferences and journals, including IEEE TPAMI/TNNLS/TMM/TMI, Information Fusion, Pattern Recognition, AAAI, KDD, IJCAI, ACMMM, UAI etc. I won the Best Paper Runner-Up Award in IEEE ICME 2019.)
