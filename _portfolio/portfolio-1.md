@@ -1,5 +1,5 @@
 ---
 title: "Email"
-excerpt: "Shaonan.wang@nlpr.ia.ac.cn"
+excerpt: "changde.du@ia.ac.cn"
 ---
 
