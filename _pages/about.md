@@ -12,7 +12,7 @@ redirect_from:
 
   
 # News
-- 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://arxiv.org/abs/2210.06756v2). The [[Code]](https://github.com/ChangdeDu/BraVL) and [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) have been released.
+- 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://ieeexplore.ieee.org/document/10089190). The [[Code]](https://github.com/ChangdeDu/BraVL) and [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) have been released.
 
 - 02/2023: Our paper on "Graph-Enhanced Emotion Neural Decoding" got accepted to [**IEEE TMI**]
 
@@ -62,7 +62,7 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2023
-- **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2023**). <br>[[PDF]](https://arxiv.org/abs/2210.06756v2) [[Code]](https://github.com/ChangdeDu/BraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591)
+- **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2023**). <br>[[PDF]](https://ieeexplore.ieee.org/document/10089190) [[Code]](https://github.com/ChangdeDu/BraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591)
 
 - Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**) 
 
