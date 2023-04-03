@@ -69,11 +69,11 @@ redirect_from:
 ## 2022
 - Kaicheng Fu, **Changde Du**, Shengpei Wang, Huiguang He. Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS 2022**), (Co-first author) <br>[[PDF]](https://arxiv.org/abs/2211.02629) [[Code]](https://github.com/KaichengFu1997/ML-BVAE)
 
-- Xinyu Cheng, Wei Wei, **Changde Du**, Shuang Qiu, Sanli Tian, Xiaojun Ma, Huiguang He. VigilanceNet: Decouple Intra- and Inter-Modality Learning for Multimodal Vigilance Estimation in RSVP-Based BCI. Proceedings of the 30th ACM international conference on Multimedia (**ACMMM 2022**) 
+- Xinyu Cheng, Wei Wei, **Changde Du**, Shuang Qiu, Sanli Tian, Xiaojun Ma, Huiguang He. VigilanceNet: Decouple Intra- and Inter-Modality Learning for Multimodal Vigilance Estimation in RSVP-Based BCI. Proceedings of the 30th ACM international conference on Multimedia (**ACMMM 2022**) <br> [[Code]](https://github.com/I-am-BigOrange/VigilanceNet)
 
-- Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) 
+- Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) <br> [[Code]](https://github.com/zhongyu1998/GED)
 
-- Qiongyi Zhou, **Changde Du**, Huiguang He. Exploring the brain-like properties of deep neural networks: a neural encoding perspective. Machine Intelligence Research (**MIR**)
+- Qiongyi Zhou, **Changde Du**, Huiguang He. Exploring the brain-like properties of deep neural networks: a neural encoding perspective. Machine Intelligence Research (**MIR**) <br>[[PDF]](https://link.springer.com/article/10.1007/s11633-022-1348-x) [[Code]](https://github.com/QYiZhou/LWNeuralEncoding)
 
 ## 2021
 - Dan Li, **Changde Du**, Haibao Wang, Qiongyi Zhou, Huiguang He. Deep Modality Assistance Co-Training Network for Semi-Supervised Multi-Label Semantic Decoding. IEEE Transactions on Multimedia (**TMM**), 10.1109/TMM.2021.3104980, 2021 <br>[[PDF]](https://ieeexplore.ieee.org/document/9516952)
