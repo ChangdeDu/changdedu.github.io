@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-现就职于中科院自动化所类脑智能研究中心，从事脑科学、模式识别、AI for Brain 领域的研究，在视觉神经信息编解码、多模态神经计算、视觉-语言-大脑联合建模方面发表了40多篇高水平研究论文，包括 TPAMI/TNNLS/AAAI/ACMMM/KDD 等。主持国家自然科学基金青年基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等人才项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。长期担任 TPAMI/ICLR/CVPR 等期刊/会议的审稿人/程序委员，是中国自动化学会模式识别与机器智能专委会委员，中国图象图形学学会视觉大数据专委会委员，中国人工智能学会模式识别专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。受邀在模式识别与计算机视觉大会PRCV 2022上主办关于“视觉神经信息编解码”的讲习班报告。曾获得中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
+现就职于中科院自动化所类脑智能研究中心，从事脑科学、模式识别、AI for Brain 领域的研究，在视觉神经信息编解码、多模态神经计算、视觉-语言-大脑联合建模方面发表了40多篇高水平研究论文，包括 TPAMI/TNNLS/AAAI/ACMMM/KDD 等。主持国家自然科学基金青年基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等人才项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。长期担任 TPAMI, NeuroImage, ICLR, CVPR 等期刊/会议的审稿人/程序委员，是中国自动化学会模式识别与机器智能专委会委员，中国图象图形学学会视觉大数据专委会委员，中国人工智能学会模式识别专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。受邀在模式识别与计算机视觉大会PRCV 2022上主办关于“视觉神经信息编解码”的讲习班报告。曾获得中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
 
   
 # News
@@ -121,7 +121,7 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 
 # Academic Service
 - Conference Reviewer: ICCV-2023, ICLR-2023, CVPR-2023/2022, AAAI-2022, ECCV-2022, etc.
-- Journal Reviewer: TPAMI, TNNLS, NeuroImage, IEEE Trans. on Affective Computing (TAC), IEEE Trans. on Industrial Informatics(TII), IEEE Trans. on Cognitive and Developmental Systems (TCDS), Pattern Recognition (PR), etc.
+- Journal Reviewer: TPAMI, TNNLS, NeuroImage, IEEE Trans. on Affective Computing (TAC), IEEE Trans. on Industrial Informatics(TII), Pattern Recognition (PR), etc.
 - 中国自动化学会模式识别与机器智能专委会，委员
 - 中国图象图形学学会视觉大数据专委会，委员
 - 中国人工智能学会模式识别专委会，委员
