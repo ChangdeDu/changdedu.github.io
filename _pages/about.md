@@ -18,7 +18,7 @@ redirect_from:
 
 - 02/2023: I will serve as a reviewer for **ICCV-2023**
 
-- 11/2022：入选中国人工智能学会—华为 MindSpore 学术奖励基金
+- 11/2022：入选[中国人工智能学会—华为 MindSpore 学术奖励基金](https://caai.cn/index.php?s=/home/article/detail/id/2279.html)
 
 - 11/2022: I will serve as a reviewer for **CVPR-2023**
 
