@@ -64,7 +64,7 @@ redirect_from:
 ## 2023
 - **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2023**). <br>[[PDF]](https://ieeexplore.ieee.org/document/10089190) [[Code]](https://github.com/ChangdeDu/BraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) [[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)
 
-- Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**)  <br> [[Code]](https://ieeexplore.ieee.org/document/10047967)
+- Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**)  <br> [[PDF]](https://ieeexplore.ieee.org/document/10047967)
 
 ## 2022
 - Kaicheng Fu, **Changde Du**, Shengpei Wang, Huiguang He. Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS 2022**), (Co-first author) <br>[[PDF]](https://arxiv.org/abs/2211.02629) [[Code]](https://github.com/KaichengFu1997/ML-BVAE)
