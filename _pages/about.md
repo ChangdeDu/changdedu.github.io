@@ -64,14 +64,14 @@ redirect_from:
 ## 2023
 - **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2023**). <br>[[PDF]](https://ieeexplore.ieee.org/document/10089190) [[Code]](https://github.com/ChangdeDu/BraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) [[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)
 
-- Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**) 
+- Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**)  <br> [[Code]](https://ieeexplore.ieee.org/document/10047967)
 
 ## 2022
 - Kaicheng Fu, **Changde Du**, Shengpei Wang, Huiguang He. Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS 2022**), (Co-first author) <br>[[PDF]](https://arxiv.org/abs/2211.02629) [[Code]](https://github.com/KaichengFu1997/ML-BVAE)
 
 - Xinyu Cheng, Wei Wei, **Changde Du**, Shuang Qiu, Sanli Tian, Xiaojun Ma, Huiguang He. VigilanceNet: Decouple Intra- and Inter-Modality Learning for Multimodal Vigilance Estimation in RSVP-Based BCI. Proceedings of the 30th ACM international conference on Multimedia (**ACMMM 2022**) <br> [[Code]](https://github.com/I-am-BigOrange/VigilanceNet)
 
-- Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) <br> [[Code]](https://github.com/zhongyu1998/GED)
+- Zhongyu Huang, **Changde Du**, Yingheng Wang, Huiguang He. Graph Emotion Decoding from Visually Evoked Neural Responses. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI 2022**) <br> [[Code]](https://github.com/zhongyu1998/GED) [[PDF]](https://link.springer.com/epdf/10.1007/978-3-031-16452-1_38?sharing_token=6y8qowVjmrCEhi5TyxLHufe4RwlQNchNByi7wbcMAY4L66RnN6EH-Qpj4d-T4RVyoEuh08iPZf42yckc5YIozqGcTY6PG_u9I4HdO3Fz3rNOh-GyTe4DVaLvcPkP0jmkecyjAMsV7-aKu42DbQST3rZ1d2uMpuweaCzr1hyngUY%3D)
 
 - Qiongyi Zhou, **Changde Du**, Huiguang He. Exploring the brain-like properties of deep neural networks: a neural encoding perspective. Machine Intelligence Research (**MIR**) <br>[[PDF]](https://link.springer.com/article/10.1007/s11633-022-1348-x) [[Code]](https://github.com/QYiZhou/LWNeuralEncoding)
 
