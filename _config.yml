@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Changde Du"
 title_separator          : "-"
 name                     : &name "Changde Du"
-description              : &description "Researcher at CASIA"
+description              : &description "Associate Researcher at CASIA"
 url                      : https://changdedu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "changdedu.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Changde Du (杜长德)"
   avatar           : "profile.jpg"
-  bio              : "PhD, Researcher at CASIA."
+  bio              : "PhD, Associate Researcher at CASIA."
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN"
