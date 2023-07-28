@@ -68,7 +68,7 @@ redirect_from:
 
 - Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**)  <br> [[PDF]](https://ieeexplore.ieee.org/document/10047967)
 
-- Yizhuo Lu, **Changde Du**, Qiongyi Zhou, Dianpeng Wang, Huiguang He. MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) (Co-first author) <br> [[PDF]](https://arxiv.org/pdf/2303.14139.pdf) [[Code]](https://github.com/ReedOnePeck/MindDiffuser)
+- Yizhuo Lu, **Changde Du**, Qiongyi Zhou, Dianpeng Wang, Huiguang He. MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) (Co-first author) <br>[[PDF]](https://arxiv.org/pdf/2303.14139.pdf) [[Code]](https://github.com/ReedOnePeck/MindDiffuser)
 
 - Xiaoyu Chen, **Changde Du**, Qiongyi Zhou, Huiguang He. Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) 
 
