@@ -66,7 +66,7 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2023
-- **Changde Du**, Kaicheng Fu, Bincheng Wen, Huiguang He. Topographic Representation of Visually Evoked Emotional Experiences in the Human Cerebral Cortex. **iScience 2023**. (Co-first author with Kaicheng Fu) <br>[[Code]](https://osf.io/9uyn2/) [[Data]](https://osf.io/9uyn2/) 
+- **Changde Du**, Kaicheng Fu, Bincheng Wen, Huiguang He. Topographic Representation of Visually Evoked Emotional Experiences in the Human Cerebral Cortex. **iScience 2023**. (Cell Press 旗下综合类子刊) (Co-first author with Kaicheng Fu) <br>[[Code]](https://osf.io/9uyn2/) [[Data]](https://osf.io/9uyn2/) 
 
 - **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2023**). <br>[[PDF]](https://ieeexplore.ieee.org/document/10089190) [[Code]](https://github.com/ChangdeDu/BraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) [[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)
 
