@@ -12,7 +12,7 @@ redirect_from:
 
   
 # News
-- 08/2023: Our paper was accepted by [[**iScience (Cell Press 旗下综合类子刊)**]](https://www.cell.com/iscience/fulltext/S2589-0042(23)01648-6)
+- 08/2023: Our paper was accepted by [**iScience (Cell Press 旗下综合类子刊)**](https://www.cell.com/iscience/fulltext/S2589-0042(23)01648-6)
   
 - 07/2023: Two papers were accepted by **ACMMM 2023**
   
