@@ -16,7 +16,7 @@ redirect_from:
   
 - 07/2023: Two papers were accepted by **ACMMM 2023**
   
-- 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://ieeexplore.ieee.org/document/10089190). The [[Code]](https://github.com/ChangdeDu/BraVL) and [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) have been released.[[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)[[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
+- 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://ieeexplore.ieee.org/document/10089190). The [[Code]](https://github.com/ChangdeDu/BraVL), [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) and [[Video]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1) have been released.[[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)[[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
 
 - 02/2023: Our paper on "Graph-Enhanced Emotion Neural Decoding" got accepted to [**IEEE TMI**]
 
