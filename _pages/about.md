@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-中科院自动化所副研究员，从事脑科学、模式识别、AI for Brain 领域的研究，在视觉神经信息编解码、多模态神经计算、视觉-语言-大脑联合建模方面发表了40多篇高水平研究论文，包括 Cell子刊/TPAMI/AAAI/ACMMM/KDD 等。主持国家自然科学基金青年基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等人才项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。长期担任 TPAMI, NeuroImage, ICLR, CVPR 等期刊/会议的审稿人/程序委员，是中国自动化学会模式识别与机器智能专委会委员，中国图象图形学学会视觉大数据专委会委员，中国人工智能学会模式识别专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。受邀在模式识别与计算机视觉大会PRCV 2022上主办关于“视觉神经信息编解码”的讲习班报告。曾获得中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
+中科院自动化所副研究员，从事人工智能、脑科学、模式识别、AI for Brain 领域的研究，在视觉神经信息编解码、多模态神经计算、视觉-语言-大脑联合建模方面发表了40多篇高水平研究论文，包括 Cell子刊/TPAMI/AAAI/ACMMM/KDD 等。主持国家自然科学基金青年基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等人才项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。长期担任 TPAMI, NeuroImage, ICLR, CVPR 等期刊/会议的审稿人/程序委员，是中国自动化学会模式识别与机器智能专委会委员，中国图象图形学学会视觉大数据专委会委员，中国人工智能学会模式识别专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。受邀在模式识别与计算机视觉大会PRCV 2022上主办关于“视觉神经信息编解码”的讲习班报告。曾获得中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
 
   
 # News
@@ -16,7 +16,7 @@ redirect_from:
   
 - 07/2023: Two papers were accepted by **ACMMM 2023**
   
-- 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://ieeexplore.ieee.org/document/10089190). The [[Code]](https://github.com/ChangdeDu/BraVL) and [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) have been released.[[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)
+- 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://ieeexplore.ieee.org/document/10089190). The [[Code]](https://github.com/ChangdeDu/BraVL) and [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) have been released.[[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)[[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
 
 - 02/2023: Our paper on "Graph-Enhanced Emotion Neural Decoding" got accepted to [**IEEE TMI**]
 
@@ -68,9 +68,9 @@ redirect_from:
 ## 2023
 - **Changde Du**, Kaicheng Fu, Bincheng Wen, Huiguang He. Topographic Representation of Visually Evoked Emotional Experiences in the Human Cerebral Cortex. **iScience 2023**(Cell Press 旗下综合类子刊). (Co-first author with Kaicheng Fu) <br>[[PDF]](https://www.cell.com/iscience/fulltext/S2589-0042(23)01648-6) [[Code]](https://osf.io/9uyn2/) [[Data]](https://osf.io/9uyn2/) 
 
-- **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2023**). <br>[[PDF]](https://ieeexplore.ieee.org/document/10089190) [[PyTorch Code]](https://github.com/ChangdeDu/BraVL) [[MindSpore Code]](https://gitee.com/chemn/msBraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) [[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)
+- **Changde Du**, Kaicheng Fu, Jinpeng Li, Huiguang He. [**Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features**](https://arxiv.org/abs/2210.06756). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2023**). <br>[[PDF]](https://ieeexplore.ieee.org/document/10089190) [[PyTorch Code]](https://github.com/ChangdeDu/BraVL) [[MindSpore Code]](https://gitee.com/chemn/msBraVL) [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) [[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)[[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)[[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
 
-- Yizhuo Lu, **Changde Du**, Qiongyi Zhou, Dianpeng Wang, Huiguang He. MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) (Co-first author) <br>[[PDF]](https://arxiv.org/pdf/2303.14139.pdf) [[Code]](https://github.com/ReedOnePeck/MindDiffuser)
+- Yizhuo Lu, **Changde Du**, Qiongyi Zhou, Dianpeng Wang, Huiguang He. MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) (Co-first author) <br>[[PDF]](https://arxiv.org/pdf/2303.14139.pdf) [[Code]](https://github.com/ReedOnePeck/MindDiffuser)[[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
 
 - Xiaoyu Chen, **Changde Du**, Qiongyi Zhou, Huiguang He. Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) 
 (Co-first author) <br>[[PDF]](https://arxiv.org/abs/2308.04244)
