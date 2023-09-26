@@ -75,6 +75,8 @@ redirect_from:
 - Xiaoyu Chen, **Changde Du**, Qiongyi Zhou, Huiguang He. Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) 
 (Co-first author) <br>[[PDF]](https://arxiv.org/abs/2308.04244)
 
+- Kaicheng Fu, **Changde Du**, Shengpei Wang, Huiguang He. Improved Video Emotion Recognition with Alignment of CNN and Human Brain Representations. IEEE Transactions on Affective Computing (**TAFFC 2023**), <br>[[PDF]](https://ieeexplore.ieee.org/document/10254274) [[Code]](https://osf.io/ucx57/)
+
 - Zhongyu Huang, **Changde Du**, Yingheng Wang, Kaicheng Fu, Huiguang He. Graph-Enhanced Emotion Neural Decoding. IEEE Transactions on Medical Imaging (**TMI 2023**)  <br> [[PDF]](https://ieeexplore.ieee.org/document/10047967)
 
 ## 2022
