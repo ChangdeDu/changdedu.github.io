@@ -12,6 +12,8 @@ redirect_from:
 
   
 # News
+- 01/2024: Our paper was accepted by **ICLR 2024**
+
 - 08/2023: Our paper was accepted by [**iScience (Cell Press 旗下综合类子刊)**](https://www.cell.com/iscience/fulltext/S2589-0042(23)01648-6)
   
 - 07/2023: Two papers were accepted by **ACMMM 2023**
@@ -65,6 +67,9 @@ redirect_from:
 
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
+## 2024
+- Qiongyi Zhou, **Changde Du**, Shengpei Wang, Huiguang He. CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding. The Twelfth International Conference on Learning Representations (**ICLR 2024**) <br>[[PDF]](https://openreview.net/pdf?id=lKxL5zkssv) [[Code]](https://github.com/CLIP-MUSED/CLIP-MUSED)
+  
 ## 2023
 - **Changde Du**, Kaicheng Fu, Bincheng Wen, Huiguang He. Topographic Representation of Visually Evoked Emotional Experiences in the Human Cerebral Cortex. **iScience 2023**(Cell Press 旗下综合类子刊). (Co-first author with Kaicheng Fu) <br>[[PDF]](https://www.cell.com/iscience/fulltext/S2589-0042(23)01648-6) [[Code]](https://osf.io/9uyn2/) [[Data]](https://osf.io/9uyn2/) 
 
@@ -139,6 +144,9 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 - 中国图象图形学学会视觉大数据专委会，委员
 - 中国人工智能学会模式识别专委会，委员
 
+# Course
+-	<模式识别与机器学习>
+  
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
 - 2020 World Robot Competition Finals--BCI Brain-Controlled Robot Competition Youth Outstanding Paper Award Honorable Mention (世界机器人大赛--BCI脑控机器人大赛青年优秀论文，共十篇) [[Link]](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
