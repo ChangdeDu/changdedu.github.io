@@ -68,7 +68,7 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2024
--  **Changde Du**, Kaicheng Fu, Bincheng Wen, Yi Sun, Jie Peng, Wei Wei, Ying Gao, Shengpei Wang, Chuncheng Zhang, Jinpeng Li, Shuang Qiu, Le Chang, Huiguang He. Human-like object concept representations emerge naturally in multimodal large language models. Under Review <br>[[PDF]](https://arxiv.org/pdf/2407.01067) 
+-  **Changde Du**, Kaicheng Fu, Bincheng Wen, Yi Sun, Jie Peng, Wei Wei, Ying Gao, Shengpei Wang, Chuncheng Zhang, Jinpeng Li, Shuang Qiu, Le Chang, Huiguang He. [**Human-like object concept representations emerge naturally in multimodal large language models**](https://arxiv.org/abs/2407.01067). Under Review <br>[[PDF]](https://arxiv.org/pdf/2407.01067) 
   
 - Qiongyi Zhou, **Changde Du**, Shengpei Wang, Huiguang He. CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding. The Twelfth International Conference on Learning Representations (**ICLR 2024**) <br>[[PDF]](https://openreview.net/pdf?id=lKxL5zkssv) [[Code]](https://github.com/CLIP-MUSED/CLIP-MUSED)
   
