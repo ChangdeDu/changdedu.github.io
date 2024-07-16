@@ -80,7 +80,7 @@ redirect_from:
 - Yizhuo Lu, **Changde Du**, Qiongyi Zhou, Dianpeng Wang, Huiguang He. MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) (Co-first author) <br>[[PDF]](https://arxiv.org/pdf/2308.04249.pdf) [[Code]](https://github.com/ReedOnePeck/MindDiffuser)  [[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
 
 - Xiaoyu Chen, **Changde Du**, Qiongyi Zhou, Huiguang He. Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning. Proceedings of the 31th ACM international conference on Multimedia (**ACMMM 2023**) 
-(Co-first author) <br>[[PDF]](https://arxiv.org/abs/2308.04244) [[Code]] (https://github.com/1994cxy/TMC-VAE)
+(Co-first author) <br>[[PDF]](https://arxiv.org/abs/2308.04244) [[Code]](https://github.com/1994cxy/TMC-VAE)
 
 - Kaicheng Fu, **Changde Du**, Shengpei Wang, Huiguang He. Improved Video Emotion Recognition with Alignment of CNN and Human Brain Representations. IEEE Transactions on Affective Computing (**TAFFC 2023**), <br>[[PDF]](https://ieeexplore.ieee.org/document/10254274) [[Code]](https://osf.io/ucx57/)
 
