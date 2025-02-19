@@ -71,9 +71,9 @@ redirect_from:
 
 ## 2025
 
-- Qiongyi Zhou, **Changde Du**, Shengpei Wang, Huiguang He. Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity. The International Conference on Learning Representations (**ICLR 2025**) <br>[[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator)
+- Qiongyi Zhou, **Changde Du**, Shengpei Wang, Huiguang He. Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity. The International Conference on Learning Representations (**ICLR 2025**) (Co-first author) <br>[[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator)
 
-- Shuangchen Zhao, **Changde Du**, Jingze Li, Hui Li, Huiguang He. NeuralOOD: Improving out-of-distribution generalization performance with brain-machine fusion learning framework. **Information Fusion**, 2025 <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000946) [[Code]](https://github.com/ZhaoShuangchen/BMFL)
+- Shuangchen Zhao, **Changde Du**, Jingze Li, Hui Li, Huiguang He. NeuralOOD: Improving out-of-distribution generalization performance with brain-machine fusion learning framework. **Information Fusion**, 2025 (Co-first author) <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000946) [[Code]](https://github.com/ZhaoShuangchen/BMFL)
 
 - Zhongyu Huang, **Changde Du**, Chaozhuo Li, Kaicheng Fu, Huiguang He. Identifying the hierarchical emotional areas in the human brain through information fusion. **Information Fusion**, 2025 <br>[[PDF]](https://www.sciencedirect.com/science/article/pii/S1566253524003919) 
    
