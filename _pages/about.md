@@ -71,7 +71,7 @@ redirect_from:
 
 ## 2025
 
-- Qiongyi Zhou, **Changde Du**, Shengpei Wang, Huiguang He. Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity. The International Conference on Learning Representations (**ICLR 2025**) (Co-first author) <br>[[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator)
+- Yizhuo Lu, **Changde Du**, Chong Wang, Xuanliu Zhu, Liuyun Jiang, Xujin Li, Huiguang He. Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity. The International Conference on Learning Representations (**ICLR 2025**) (Co-first author) <br>[[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator)
 
 - Shuangchen Zhao, **Changde Du**, Jingze Li, Hui Li, Huiguang He. NeuralOOD: Improving out-of-distribution generalization performance with brain-machine fusion learning framework. **Information Fusion**, 2025 (Co-first author) <br>[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000946) [[Code]](https://github.com/ZhaoShuangchen/BMFL)
 
