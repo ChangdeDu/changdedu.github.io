@@ -15,11 +15,11 @@ redirect_from:
 
 - 05/2025: Our paper [**Human-like object concept representations emerge naturally in multimodal large language models**] was accepted by **Nature Machine Intelligence**.
 
-- 05/2025: Our paper [**EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph**] was accepted by **ICML 2025**
+- 05/2025: Our paper "EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph" was accepted by **ICML 2025**
 
 - 04/2025: I will serve as a reviewer for **NeurIPS 2025**
 
-- 02/2025: Our paper **[Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity]** was accepted by **ICLR 2025**. [[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator).
+- 02/2025: Our paper "Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity" was accepted by **ICLR 2025**. [[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator).
     
 - 01/2024: Our paper was accepted by **ICLR 2024**
 
