@@ -12,6 +12,12 @@ redirect_from:
 
   
 # News
+-05/2025: Our paper [**Human-like object concept representations emerge naturally in multimodal large language models**] was accepted by **Nature Machine Intelligence**.
+
+-05/2025: One paper was accepted by **ICML 2025**
+
+-04/2025: I will serve as a reviewer for **NeurIPS 2025**
+
 - 02/2025: Our paper **[Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity]** was accepted by **ICLR 2025**. [[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator).
     
 - 01/2024: Our paper was accepted by **ICLR 2024**
@@ -70,6 +76,9 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2025
+-  **Changde Du**, Kaicheng Fu, Bincheng Wen, Yi Sun, Jie Peng, Wei Wei, Ying Gao, Shengpei Wang, Chuncheng Zhang, Jinpeng Li, Shuang Qiu, Le Chang, Huiguang He. [**Human-like object concept representations emerge naturally in multimodal large language models**](https://arxiv.org/abs/2407.01067). **Nature Machine Intelligence**, 2025 <br>[[Arxiv]](https://arxiv.org/pdf/2407.01067) [[Code]](https://github.com/ChangdeDu/LLMs_core_dimensions) [[Data]](https://osf.io/qn5uv/)
+
+- Kaicheng Fu, **Changde Du**, Jie Peng, Kunpeng Wang, Shuangchen Zhao, Xiaoyu Chen, Huiguang He. EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph. Forty-second International Conference on Machine Learning (**ICML 2025**) (Co-first author) <br> [[PDF]](https://arxiv.org/abs/2405.20600) 
 
 - Yizhuo Lu, **Changde Du**, Chong Wang, Xuanliu Zhu, Liuyun Jiang, Xujin Li, Huiguang He. Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity. The International Conference on Learning Representations (**ICLR 2025**) (Co-first author) <br>[[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator)
 
@@ -78,8 +87,7 @@ redirect_from:
 - Zhongyu Huang, **Changde Du**, Chaozhuo Li, Kaicheng Fu, Huiguang He. Identifying the hierarchical emotional areas in the human brain through information fusion. **Information Fusion**, 2025 <br>[[PDF]](https://www.sciencedirect.com/science/article/pii/S1566253524003919) 
    
 ## 2024
--  **Changde Du**, Kaicheng Fu, Bincheng Wen, Yi Sun, Jie Peng, Wei Wei, Ying Gao, Shengpei Wang, Chuncheng Zhang, Jinpeng Li, Shuang Qiu, Le Chang, Huiguang He. [**Human-like object concept representations emerge naturally in multimodal large language models**](https://arxiv.org/abs/2407.01067). Under Review <br>[[PDF]](https://arxiv.org/pdf/2407.01067) 
-  
+
 - Qiongyi Zhou, **Changde Du**, Shengpei Wang, Huiguang He. CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding. The Twelfth International Conference on Learning Representations (**ICLR 2024**) <br>[[PDF]](https://openreview.net/pdf?id=lKxL5zkssv) [[Code]](https://github.com/CLIP-MUSED/CLIP-MUSED)
   
 ## 2023
