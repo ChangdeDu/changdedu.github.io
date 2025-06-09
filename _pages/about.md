@@ -77,7 +77,7 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2025
--  **Changde Du**, Kaicheng Fu, Bincheng Wen, Yi Sun, Jie Peng, Wei Wei, Ying Gao, Shengpei Wang, Chuncheng Zhang, Jinpeng Li, Shuang Qiu, Le Chang, Huiguang He. [**Human-like object concept representations emerge naturally in multimodal large language models**](https://arxiv.org/abs/2407.01067). **Nature Machine Intelligence**, 2025 <br>[[PDF]](https://www.nature.com/articles/s42256-025-01049-z) [[Code]](https://github.com/ChangdeDu/LLMs_core_dimensions) [[Data]](https://osf.io/qn5uv/)
+-  **Changde Du**, Kaicheng Fu, Bincheng Wen, Yi Sun, Jie Peng, Wei Wei, Ying Gao, Shengpei Wang, Chuncheng Zhang, Jinpeng Li, Shuang Qiu, Le Chang, Huiguang He. [**Human-like object concept representations emerge naturally in multimodal large language models**](https://www.nature.com/articles/s42256-025-01049-z). **Nature Machine Intelligence**, 2025 <br>[[PDF]](https://www.nature.com/articles/s42256-025-01049-z) [[Code]](https://github.com/ChangdeDu/LLMs_core_dimensions) [[Data]](https://osf.io/qn5uv/)
 
 - Kaicheng Fu, **Changde Du**, Jie Peng, Kunpeng Wang, Shuangchen Zhao, Xiaoyu Chen, Huiguang He. EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph. Forty-second International Conference on Machine Learning (**ICML 2025**) (Co-first author) <br> [[PDF]](https://arxiv.org/abs/2405.20600) [[Code]](https://github.com/ChangdeDu/EmoGrowth)
 
