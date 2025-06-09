@@ -13,7 +13,7 @@ redirect_from:
   
 # News
 
-- 06/2025: Our paper "Human-like object concept representations emerge naturally in multimodal large language models" has been published on [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-025-01049-z).
+- 06/2025: Our paper "Human-like object concept representations emerge naturally in multimodal large language models" was published on [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-025-01049-z).
 
 - 05/2025: Our paper "EmoGrowth: Incremental Multi-label Emotion Decoding with Augmented Emotional Relation Graph" was accepted by **ICML 2025**
 
