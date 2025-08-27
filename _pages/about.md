@@ -23,7 +23,7 @@ redirect_from:
   
 # News
 
-- 08/2025: Funded by the **National Natural Science Foundation of China(面上项目)**
+- 08/2025: Funded by the **National Natural Science Foundation of China(面上项目，主持)**
 
 - 06/2025: Our paper "Human-like object concept representations emerge naturally in multimodal large language models" was published on [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-025-01049-z).
 
