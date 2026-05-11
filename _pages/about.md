@@ -24,7 +24,7 @@ redirect_from:
 # News
 - I was invited to serve as a reviewer for **Nature**.
 
-- 05/2026: Our paper "Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion. Forty-third International Conference on Machine Learning" was accepted by **ICML 2026 spotlight**
+- 05/2026: Our paper "Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion" was accepted by **ICML 2026 spotlight**
 
 - 04/2026: 我们“多模态大模型自发涌现类人概念表征”的研究，获《自然》科研智讯（Nature Research Intelligence）与北京市科委联合评选为“**北京市2025年度基础研究十大进展**”。
 
