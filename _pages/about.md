@@ -26,7 +26,7 @@ redirect_from:
 
 - 05/2026: Our paper was accepted by **ICML 2026 spotlight**
 
-- 04/2026: 我们关于“多模态大模型自发涌现类人概念表征”的研究，获《自然》科研智讯（Nature Research Intelligence）与北京市科委联合评选为“**北京市2025年度基础研究十大进展**”。
+- 04/2026: 我们“多模态大模型自发涌现类人概念表征”的研究，获《自然》科研智讯（Nature Research Intelligence）与北京市科委联合评选为“**北京市2025年度基础研究十大进展**”。
 
 - 01/2026: 获得2025年度 [**"小米青年学者"**](https://cdn.cnbj1.fds.api.mi-img.com/charity-static-file/res/document/20260212/e2cc6d17a5e0475cbac21a698095d5dc.pdf)
 
