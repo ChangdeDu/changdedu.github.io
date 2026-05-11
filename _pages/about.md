@@ -24,6 +24,8 @@ redirect_from:
 # News
 - I was invited to serve as a reviewer for **Nature**.
 
+- 05/2026: Our paper was accepted by **ICML 2026 spotlight**
+
 - 01/2026: 获得2025年度 [**"小米青年学者"**](https://cdn.cnbj1.fds.api.mi-img.com/charity-static-file/res/document/20260212/e2cc6d17a5e0475cbac21a698095d5dc.pdf)
 
 - 08/2025: Funded by the **National Natural Science Foundation of China(面上项目，主持)**
