@@ -22,6 +22,8 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
+- 05/2026: 获得 ICML 2026 **Silver Reviewer Award**
+
 - I was invited to serve as a reviewer for **Nature**.
 
 - 05/2026: Our paper "Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion" was accepted by **ICML 2026 (spotlight)**
