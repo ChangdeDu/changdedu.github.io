@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-中国科学院自动化研究所副研究员，硕士生导师，从事人工智能、认知科学、AI for Brain Science、NeuroAI、脑机智能领域的研究，在（基于fMRI、MEG、EEG数据的）神经编解码、多模态神经计算、视觉-语言-大脑联合建模、大模型评估与解释等方面发表了50多篇高水平论文，如 Nature Machine Intelligence、IEEE TPAMI、ICLR、ICML等。主持国家自然科学基金面上项目、北京市-小米联合基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。长期担任 Nature, Nature Human Behaviour, TPAMI, ICML, NeurIPS, ICLR, CVPR等期刊/会议的审稿人/程序委员，担任《The Innovation Informatics》青年编委，中国自动化学会模式识别与机器智能专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。曾获得2025年"小米青年学者"、中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
+中国科学院自动化研究所副研究员，硕士生导师，从事人工智能、认知科学、AI for Brain Science、NeuroAI、脑机智能领域的研究，在（基于fMRI、MEG、EEG数据的）神经编解码、多模态神经计算、视觉-语言-大脑联合建模、大模型评估与解释等方面发表了50多篇高水平论文，如 Nature Machine Intelligence、IEEE TPAMI、ICLR、ICML等。主持国家自然科学基金面上项目、北京市-小米联合基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。担任 Nature, Science, Nature Human Behaviour, TPAMI等期刊的审稿人，担任《The Innovation Informatics》青年编委，中国自动化学会模式识别与机器智能专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。曾获得2025年"小米青年学者"、中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
 
 # 研究概述
 我的研究致力于探索智能的本质，聚焦于生物智能与人工智能的交叉前沿，通过神经科学、认知科学与人工智能的深度融合，揭示大脑信息处理的基本原理，并以此推动新一代人工智能的发展。研究主要围绕三个相互关联的方向展开：**理解脑**、**启发AI**、**融合智能**。
@@ -22,6 +22,8 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
+- Serve as a reviewer for **Science**.
+
 - 05/2026: 获得 ICML 2026 **Silver Reviewer Award**
 
 - I was invited to serve as a reviewer for **Nature**.
@@ -167,14 +169,14 @@ In Proceedings of the 26th International Joint Conference on Artificial Intellig
 Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[[PDF]](http://auai.org/uai2016/proceedings/papers/13.pdf)
 
 # Academic Service
-- Conference Reviewer: ICCV-2023, ICLR-2023, CVPR-2023/2022, AAAI-2022, ECCV-2022, etc.
-- Journal Reviewer: TPAMI, TNNLS, NeuroImage, Human Brain Mapping, IEEE Trans. on Affective Computing (TAC), IEEE Trans. on Industrial Informatics(TII), Pattern Recognition (PR), etc.
+- Journal Reviewer: Nature, Science, Nature Human Behaviour, TPAMI, etc.
 - 中国自动化学会模式识别与机器智能专委会，委员
 - 中国图象图形学学会视觉大数据专委会，委员
 - 中国人工智能学会模式识别专委会，委员
 
 # Course
 -	<模式识别与机器学习>
+-	<脑机接口与脑机智能>
   
 # Awards and Achievements
 - 2021 Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强) [[Link]](https://xueshu.baidu.com/usercenter/index/aischolar)
@@ -190,8 +192,4 @@ Conference on Uncertainty in Artificial Intelligence (**UAI 2016**), 2016  <br>[
 -	2017 Top 40 for the Baidu Scholarship (百度奖学金40强) [[Link]](https://mp.weixin.qq.com/s/sTWcdiDmGaufXvfe5w0Wxg)
 -	2017 University of CAS Merit Student
 
-# Fundings
--	National Natural Science Foundation of China (国家自然科学基金委）
--	科技部国家重点研发
--	Chinese Academy of Sciences(中科院)
--	CAAI&HUAWEI (中国人工智能学会-华为公司)
+
