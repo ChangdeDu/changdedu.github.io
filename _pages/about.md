@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-中国科学院自动化研究所副研究员，硕士生导师，从事人工智能、认知科学、AI for Brain Science、NeuroAI、脑机智能领域的研究，在（基于fMRI、MEG、EEG数据的）神经编解码、多模态神经计算、视觉-语言-大脑联合建模、大模型评估与解释等方面发表了50多篇高水平论文，如 Nature Machine Intelligence、IEEE TPAMI、ICLR、ICML等。主持国家自然科学基金面上项目、北京市-小米联合基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。担任 Nature, Science, Nature Human Behaviour, TPAMI等期刊的审稿人，担任《The Innovation Informatics》青年编委，中国自动化学会模式识别与机器智能专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。曾获得2025年"小米青年学者"、中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
+中国科学院自动化研究所副研究员，硕士生导师，北京中关村学院兼职导师，从事人工智能、认知科学、AI for Brain Science、NeuroAI、脑机智能领域的研究，在（基于fMRI、MEG、EEG数据的）神经编解码、多模态神经计算、视觉-语言-大脑联合建模、大模型评估与解释等方面发表了50多篇高水平论文，如 Nature Machine Intelligence、IEEE TPAMI、ICLR、ICML等。主持国家自然科学基金面上项目、北京市-小米联合基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。担任 Nature, Science, Nature Human Behaviour, TPAMI等期刊的审稿人，担任《The Innovation Informatics》青年编委，中国自动化学会模式识别与机器智能专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。曾获得2025年"小米青年学者"、中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
 
 # 研究概述
 我的研究致力于探索智能的本质，聚焦于生物智能与人工智能的交叉前沿，通过神经科学、认知科学与人工智能的深度融合，揭示大脑信息处理的基本原理，并以此推动新一代人工智能的发展。研究主要围绕三个相互关联的方向展开：**理解脑**、**启发AI**、**融合智能**。
@@ -22,11 +22,11 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
-- Serve as a reviewer for **Science**.
+- Serve as a reviewer for **《Science》**.
 
 - 05/2026: 获得 ICML 2026 **Silver Reviewer Award**
 
-- I was invited to serve as a reviewer for **Nature**.
+- I was invited to serve as a reviewer for **《Nature》**.
 
 - 05/2026: Our paper "Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion" was accepted by **ICML 2026 (spotlight)**
 
@@ -84,7 +84,7 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2026
--  Yizhuo Lu, **Changde Du**, Qingyu Shi, Hang Chen, Jie Peng, Liuyun Jiang, Shuangchen Zhao, Huiguang He. Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion. Forty-third International Conference on Machine Learning (**ICML 2026 spotlight**) (Co-first author)
+-  Yizhuo Lu, **Changde Du**, Qingyu Shi, Hang Chen, Jie Peng, Liuyun Jiang, Shuangchen Zhao, Huiguang He. Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion. Forty-third International Conference on Machine Learning (**ICML 2026 spotlight**) (Co-first author) <br> [[PDF]](https://arxiv.org/pdf/2605.29591) [[Code]](https://github.com/ReedOnePeck/Mind-Omni)
 
 ## 2025
 -  **Changde Du**, Kaicheng Fu, Bincheng Wen, Yi Sun, Jie Peng, Wei Wei, Ying Gao, Shengpei Wang, Chuncheng Zhang, Jinpeng Li, Shuang Qiu, Le Chang, Huiguang He. [**Human-like object concept representations emerge naturally in multimodal large language models**](https://www.nature.com/articles/s42256-025-01049-z). **Nature Machine Intelligence**, 2025 <br>[[PDF]](https://www.nature.com/articles/s42256-025-01049-z) [[Code]](https://github.com/ChangdeDu/LLMs_core_dimensions) [[Data]](https://osf.io/qn5uv/) [[中科院之声]](https://mp.weixin.qq.com/s/vYWl2CqotvEpnX2kRjjgbg) [[新华社]](https://h.xinhuaxmt.com/vh512/share/12582034?docid=12582034&newstype=1001&d=134fff1&channel=weixin&time=1757301214924) [[科普中国Video]](https://m.kepuchina.cn/videodetail?id=617133&member_id=CM202305251701258498&check_code=6222ac428b93411b8e1ead578d526701&spm=APP%24%23%23%24%E5%88%86%E4%BA%AB%24%23%23%24%24%23%23%24&shareSource=1) [[YouTube]](https://m.youtube.com/watch?v=aYIRm7bv4ZU)
