@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-中国科学院自动化研究所副研究员，硕士生导师，北京中关村学院兼职导师，从事人工智能、认知科学、AI for Brain Science、NeuroAI、脑机智能领域的研究，在（基于fMRI、MEG、EEG数据的）神经编解码、多模态神经计算、视觉-语言-大脑联合建模、大模型评估与解释等方面发表了50多篇高水平论文，如 Nature Machine Intelligence、IEEE TPAMI、ICLR、ICML等。主持国家自然科学基金面上项目、北京市-小米联合基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。担任 Nature, Science, Nature Human Behaviour, TPAMI等期刊的审稿人，担任《The Innovation Informatics》青年编委，中国自动化学会模式识别与机器智能专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。曾获得2025年"小米青年学者"、中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
+中国科学院自动化研究所副研究员，硕士生导师，北京中关村学院兼职导师，从事人工智能、认知科学、AI for Brain Science、NeuroAI、脑机智能领域的研究，在（基于fMRI、MEG、EEG数据的）神经编解码、多模态神经计算、视觉-语言-大脑联合建模、大模型评估与解释等方面发表了50多篇高水平论文，如 Nature Machine Intelligence、IEEE TPAMI、ICLR、ICML等。主持国家自然科学基金青年基金（B类），面上项目、北京市-小米联合基金、中科院特别研究助理资助项目、中国人工智能学会—华为 MindSpore 学术奖励基金，科技创新2030—“新一代人工智能”重大项目子课题等项目。作为研发骨干参与科技创新2030—“脑科学与类脑研究”重大项目，国自然重点项目，科技部国家重点研发项目等。担任 Nature, Science, Nature Human Behaviour, TPAMI等期刊的审稿人，担任《The Innovation Informatics》青年编委，中国自动化学会模式识别与机器智能专委会委员。多次受邀在国际顶级人脑图谱大会 (OHBM)、国际顶级多媒体大(ACMMM)、国际顶级人工智能大会（AAAI）做学术报告。曾获得2025年"小米青年学者"、中科院院长奖、北京市优秀毕业生、2021年AI华人新星百强、IEEE ICME 2019 最佳论文奖（亚军）、研究成果被《MIT Technology Review》等科技媒体头条报道。
 
 # 研究概述
 我的研究致力于探索智能的本质，聚焦于生物智能与人工智能的交叉前沿，通过神经科学、认知科学与人工智能的深度融合，揭示大脑信息处理的基本原理，并以此推动新一代人工智能的发展。研究主要围绕三个相互关联的方向展开：**理解脑**、**启发AI**、**融合智能**。
@@ -22,6 +22,8 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
+- 2026.08: 获得国家自然科学青年科学基金项目（B类）（原国家优秀青年科学基金项目）
+
 - Serve as a reviewer for **《Science》**.
 
 - 05/2026: 获得 ICML 2026 **Silver Reviewer Award**
@@ -44,37 +46,13 @@ redirect_from:
 
 - 08/2023: Our paper was accepted by [**iScience (Cell Press 旗下综合类子刊)**](https://www.cell.com/iscience/fulltext/S2589-0042(23)01648-6)
   
-- 07/2023: Two papers were accepted by **ACMMM 2023**
-  
 - 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://ieeexplore.ieee.org/document/10089190). The [[Code]](https://github.com/ChangdeDu/BraVL), [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) and [[Video]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1) have been released.[[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)  [[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)  [[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
 
-- 02/2023: Our paper on "Graph-Enhanced Emotion Neural Decoding" got accepted to [**IEEE TMI**]
-
 - 11/2022：入选[中国人工智能学会—华为 MindSpore 学术奖励基金](https://caai.cn/index.php?s=/home/article/detail/id/2279.html)
-
-- 11/2022: Our paper on "Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity" got accepted to [**IEEE TNNLS**](https://arxiv.org/abs/2211.02629)
-
-- 09/2022: I was funded by the **National Natural Science Foundation of China(国自然青年基金)**
-
-- 07/2022: Our paper on "Multimodal Vigilance Estimation in RSVP-Based BCI" got accepted to **ACMMM 2022**
-
-- 06/2022: Our paper on "Graph Emotion Decoding from Visually Evoked Neural Responses" got accepted to **MICCAI 2022**
-
-- 11/2021: I was funded by the **Special Research Assistant Program of the Chinese Academy of Sciences(中科院特别研究助理)**
-
-- 08/2021: Our paper on "Semi-supervised Multi-modal Multi-Label Learning" got accepted to **IEEE TMM**
 
 - 05/2021: Selected as [**Global Top 100 Chinese Rising Stars in Artificial Intelligence (AI华人新星百强)**](https://xueshu.baidu.com/usercenter/index/aischolar) [[百度]](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361) [[光明网]](https://tech.gmw.cn/2021-05/12/content_34838485.htm)
 
 - 12/2020: Won **Youth Outstanding Paper Award** on WRCF--BCI Brain-Controlled Robot Competition [(世界机器人大赛--BCI脑控机器人大赛青年优秀论文)](http://www.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1119/1574.html)
-
-- 11/2020: Our paper on "Doubly Semi-supervised Multimodal Learning" got accepted to [**Information Fusion**](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304115?dgcid=rss_sd_all)
-
-- 09/2020: Our paper on "Multitask Structured Neural Decoding" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9229132)
-
-- 03/2020: Our paper on "Brain-inspired Dynamical DNN Channel Pruning" got accepted to [**IEEE TNNLS**](https://ieeexplore.ieee.org/document/9055425?reason=concurrency)
-
-- 11/2019: Our paper on "Conditional Generative Neural Decoding" got accepted to [**AAAI'20**](https://aaai.org/ojs/index.php/AAAI/article/view/5647)
 
 - 07/2019: Our paper won [**ICME'19 Best Paper Runner-Up Award**](http://english.ia.cas.cn/rh/rps/201908/t20190819_214607.html)
 
