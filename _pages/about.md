@@ -43,8 +43,6 @@ redirect_from:
 - 02/2025: Our paper "Animate Your Thoughts: Reconstruction of Dynamic Natural Vision from Human Brain Activity" was accepted by **ICLR 2025**. [[Project]](https://mind-animator-design.github.io/) [[PDF]](https://openreview.net/pdf?id=BpfsxFqhGa) [[Code]](https://github.com/ReedOnePeck/Mind-Animator).
     
 - 01/2024: Our paper was accepted by **ICLR 2024**
-
-- 08/2023: Our paper was accepted by [**iScience (Cell Press 旗下综合类子刊)**](https://www.cell.com/iscience/fulltext/S2589-0042(23)01648-6)
   
 - 03/2023: Our paper on "Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features" got accepted to [[**IEEE TPAMI**]](https://ieeexplore.ieee.org/document/10089190). The [[Code]](https://github.com/ChangdeDu/BraVL), [[Data]](https://figshare.com/articles/dataset/BraVL/17024591) and [[Video]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1) have been released.[[中科院报道]](https://www.cas.cn/syky/202304/t20230407_4883387.shtml)  [[机器之心]](https://mp.weixin.qq.com/s/6Q6aUq5zAo6CWwWJR3zlsw)  [[Talk视频]](https://www.bilibili.com/video/BV1su4y1C7et/?spm_id_from=&vd_source=fc8b7bd140ce58496122e4291efbafb1)
 
