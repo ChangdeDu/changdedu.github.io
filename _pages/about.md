@@ -22,7 +22,7 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
-- 2026.09：New invited paper "Steering machine reasoning with brain signals" is now published in [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-026-01302-z)(News & Views).
+- 2026.09：New invited paper "Steering machine reasoning with brain signals" is now published in [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-026-01302-z) (News&Views).
 
 - 2026.08: 获得国家自然科学青年科学基金项目（B类）（原国家优青）
 
@@ -62,7 +62,7 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2026
-- **Changde Du**, Huiguang He. [**Steering machine reasoning with brain signals**](https://www.nature.com/articles/s42256-026-01302-z) . **Nature Machine Intelligence** (2026). https://doi.org/10.1038/s42256-026-01302-z <br>[[PDF]](https://www.nature.com/articles/s42256-026-01302-z) 
+- **Changde Du**, Huiguang He. [**Steering machine reasoning with brain signals**](https://www.nature.com/articles/s42256-026-01302-z). **Nature Machine Intelligence** (2026). https://doi.org/10.1038/s42256-026-01302-z <br>[[PDF]](https://www.nature.com/articles/s42256-026-01302-z) 
 
 -  Yizhuo Lu, **Changde Du**, Qingyu Shi, Hang Chen, Jie Peng, Liuyun Jiang, Shuangchen Zhao, Huiguang He. Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion. Forty-third International Conference on Machine Learning (**ICML 2026 spotlight**) (Co-first author) <br> [[PDF]](https://arxiv.org/pdf/2605.29591) [[Code]](https://github.com/ReedOnePeck/Mind-Omni)
 
