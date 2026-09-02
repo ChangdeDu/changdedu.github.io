@@ -22,7 +22,7 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
-- 2026.09：New invited paper "Steering machine reasoning with brain signals" is now published in [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-026-01302-z) (News&Views).
+- 2026.09：New invited News&Views paper "Steering machine reasoning with brain signals" is now published in [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-026-01302-z)
 
 - 2026.08: 获得国家自然科学青年科学基金项目（B类）（原国家优青）
 
