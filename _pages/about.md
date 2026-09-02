@@ -62,7 +62,7 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2026
-- **Changde Du**, Huiguang He. [**Steering machine reasoning with brain signals**](https://www.nature.com/articles/s42256-026-01302-z). **Nature Machine Intelligence** (2026). https://doi.org/10.1038/s42256-026-01302-z <br>[[PDF]](https://www.nature.com/articles/s42256-026-01302-z) 
+- **Changde Du**, Huiguang He. [**Steering machine reasoning with brain signals**](https://www.nature.com/articles/s42256-026-01302-z). **Nature Machine Intelligence** (2026), News & Views, https://doi.org/10.1038/s42256-026-01302-z. <br>[[PDF]](https://www.nature.com/articles/s42256-026-01302-z) 
 
 -  Yizhuo Lu, **Changde Du**, Qingyu Shi, Hang Chen, Jie Peng, Liuyun Jiang, Shuangchen Zhao, Huiguang He. Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion. Forty-third International Conference on Machine Learning (**ICML 2026 spotlight**) (Co-first author) <br> [[PDF]](https://arxiv.org/pdf/2605.29591) [[Code]](https://github.com/ReedOnePeck/Mind-Omni)
 
