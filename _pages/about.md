@@ -22,6 +22,8 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
+- 2026.10: Our paper "Multimodal large language models converge toward the human-like geometry of abstract emotion" was accepted by **Nature Machine Intelligence**
+
 - 2026.09: Our paper "Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions" was accepted by **NeurIPS 2026**
 
 - 2026.09：New invited News&Views paper "Steering machine reasoning with brain signals" was published in [**Nature Machine Intelligence**](https://www.nature.com/articles/s42256-026-01302-z)
@@ -64,6 +66,8 @@ redirect_from:
 ### [[Google Scholar]](https://scholar.google.com/citations?user=ef2EFsYAAAAJ&hl=zh-CN) [[DBLP]](https://dblp.org/pid/178/4485.html)
 
 ## 2026
+-  **Changde Du**#, Yizhuo Lu#, Zhongyu Huang, Yi Sun, Zisen Zhou, Shaozheng Qin, and Huiguang He. Multimodal large language models converge toward the human-like geometry of abstract emotion. **Nature Machine Intelligence**, 2026 （Accepted, Co-first author）
+
 - Ning E, **Changde Du**, Yizhuo Lu, Huiguang He. Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions. The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**) (Co-first author) 
 
 - **Changde Du**, Huiguang He. [**Steering machine reasoning with brain signals**](https://www.nature.com/articles/s42256-026-01302-z). **Nature Machine Intelligence** (2026), News & Views, https://doi.org/10.1038/s42256-026-01302-z. <br>[[PDF]](https://www.nature.com/articles/s42256-026-01302-z) 
