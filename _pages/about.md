@@ -22,6 +22,8 @@ redirect_from:
 总体而言，我的研究强调双向启发：一方面以人工智能为工具解析大脑，加速神经科学的发现进程；另一方面以大脑为蓝本优化AI，突破当前模型在表征深度与适应性上的瓶颈。目标是建立一个理解智能、模拟智能并最终拓展智能的统一研究范式。
   
 # News
+- 2026.10: 获得2026[**“中国脑机智能科学新星”**]（https://mp.weixin.qq.com/s/e9Jzcg2lpsjm-yej45VlNg）称号
+
 - 2026.10: Our paper "Multimodal large language models converge toward the human-like geometry of abstract emotion" was accepted by **Nature Machine Intelligence**
 
 - 2026.09: Our paper "Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions" was accepted by **NeurIPS 2026**
