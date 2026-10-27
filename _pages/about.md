@@ -71,6 +71,7 @@ redirect_from:
 -  **Changde Du**#, Yizhuo Lu#, Zhongyu Huang, Yi Sun, Zisen Zhou, Shaozheng Qin, and Huiguang He. Multimodal large language models converge toward the human-like geometry of abstract emotion. **Nature Machine Intelligence**, 2026 （Accepted, Co-first author）
 
 - Ning E, **Changde Du**, Yizhuo Lu, Huiguang He. Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions. The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**) (Co-first author) 
+<br>[[Project]](https://ening-open.github.io/profile/pages/neurips/cogalign/index.html) [[PDF]](https://ening-open.github.io/profile/pages/neurips/cogalign/index.html) [[Code]](https://github.com/ening-open/CogAlign)
 
 - **Changde Du**, Huiguang He. [**Steering machine reasoning with brain signals**](https://www.nature.com/articles/s42256-026-01302-z). **Nature Machine Intelligence** (2026), News & Views, https://doi.org/10.1038/s42256-026-01302-z. <br>[[PDF]](https://www.nature.com/articles/s42256-026-01302-z) 
 
